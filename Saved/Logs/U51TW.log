@@ -1449,3 +1449,38 @@ Script Stack (0 frames):
 [2020.04.24-15.49.17:434][647]SourceControl:  create mode 100644 Content/Weapons/WeaponComponent/Blueprints/E_WeaponTypes.uasset
 [2020.04.24-15.49.17:434][647]SourceControl:  create mode 100644 Content/Weapons/WeaponComponent/Blueprints/ST_EquipedWeapon.uasset
 [2020.04.24-15.49.17:440][647]SourceControl: Commited [master 18cecfc] Moved Folders.
+[2020.04.24-15.51.28:340][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.04.24-15.51.32:839][978]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.24-15.51.33:050][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.04.24-15.51.33:071][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.04.24-15.51.33:093][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.04.24-15.51.33:113][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.04.24-15.51.33:133][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.04.24-15.51.33:154][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.04.24-15.51.33:175][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.04.24-15.51.33:204][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.04.24-15.51.33:225][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.04.24-15.51.33:396][978]SourceControl: Error: Updated 0 paths from the index
+[2020.04.24-15.51.33:519][978]SourceControl: Error: warning: could not open directory 'Content/WeaponComponent/': No such file or directory
+[2020.04.24-15.51.33:519][978]SourceControl: rm 'Content/WeaponComponent/Blueprints/BPS_WeaponData.uasset'
+[2020.04.24-15.51.33:519][978]SourceControl: rm 'Content/WeaponComponent/Blueprints/DT_Weapons.uasset'
+[2020.04.24-15.51.33:519][978]SourceControl: rm 'Content/WeaponComponent/Blueprints/E_AddAmmoTypes.uasset'
+[2020.04.24-15.51.33:519][978]SourceControl: rm 'Content/WeaponComponent/Blueprints/E_FireModes.uasset'
+[2020.04.24-15.51.33:519][978]SourceControl: rm 'Content/WeaponComponent/Blueprints/E_WeaponState.uasset'
+[2020.04.24-15.51.33:519][978]SourceControl: rm 'Content/WeaponComponent/Blueprints/E_WeaponTypes.uasset'
+[2020.04.24-15.51.33:519][978]SourceControl: rm 'Content/WeaponComponent/Blueprints/ST_EquipedWeapon.uasset'
+[2020.04.24-15.51.35:987][251]SourceControl: fatal: F:/UE4Engine/UE_4.24/Engine/Content: 'F:/UE4Engine/UE_4.24/Engine/Content' is outside repository at 'C:/Users/Raven/Documents/GitHub/U51-TW_New'
+[2020.04.24-15.51.41:718][251]LogSlate: Window 'Submit Files' being destroyed
+[2020.04.24-15.51.41:793][251]SourceControl: Error: warning: could not open directory 'Content/WeaponComponent/': No such file or directory
+[2020.04.24-15.51.41:995][251]LogSourceControl: commit successful: [master 429f20d] Folder Delete
+[2020.04.24-15.51.42:052][251]SourceControl: Error: warning: could not open directory 'Content/WeaponComponent/': No such file or directory
+[2020.04.24-15.51.42:052][251]SourceControl: [master 429f20d] Folder Delete
+[2020.04.24-15.51.42:052][251]SourceControl:  7 files changed, 0 insertions(+), 0 deletions(-)
+[2020.04.24-15.51.42:052][251]SourceControl:  delete mode 100644 Content/WeaponComponent/Blueprints/BPS_WeaponData.uasset
+[2020.04.24-15.51.42:052][251]SourceControl:  delete mode 100644 Content/WeaponComponent/Blueprints/DT_Weapons.uasset
+[2020.04.24-15.51.42:052][251]SourceControl:  delete mode 100644 Content/WeaponComponent/Blueprints/E_AddAmmoTypes.uasset
+[2020.04.24-15.51.42:052][251]SourceControl:  delete mode 100644 Content/WeaponComponent/Blueprints/E_FireModes.uasset
+[2020.04.24-15.51.42:052][251]SourceControl:  delete mode 100644 Content/WeaponComponent/Blueprints/E_WeaponState.uasset
+[2020.04.24-15.51.42:052][251]SourceControl:  delete mode 100644 Content/WeaponComponent/Blueprints/E_WeaponTypes.uasset
+[2020.04.24-15.51.42:052][251]SourceControl:  delete mode 100644 Content/WeaponComponent/Blueprints/ST_EquipedWeapon.uasset
+[2020.04.24-15.51.42:058][251]SourceControl: Commited [master 429f20d] Folder Delete.
