@@ -1,0 +1,879 @@
+﻿Log file open, 04/24/20 16:41:13
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: U51TW
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.058295
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Display: Disabled plugin 'MSSQL', continuing.
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: F:/UE4Engine/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.24-15.41.14:488][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.24-15.41.14:488][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.24-15.41.14:488][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Raven/Documents/GitHub/U51-TW_New/Saved/Config/Windows/Engine.ini]
+[2020.04.24-15.41.14:488][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.24-15.41.14:488][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Raven/Documents/GitHub/U51-TW_New/Saved/Config/Windows/Engine.ini]
+[2020.04.24-15.41.14:488][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Raven/Documents/GitHub/U51-TW_New/Saved/Config/Windows/Engine.ini]
+[2020.04.24-15.41.14:488][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.24-15.41.14:488][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.24-15.41.14:488][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.24-15.41.14:488][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.24-15.41.14:488][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.24-15.41.14:488][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.24-15.41.14:488][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.24-15.41.14:488][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.24-15.41.14:488][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.24-15.41.14:488][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.24-15.41.14:488][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.24-15.41.14:488][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.24-15.41.14:488][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.24-15.41.14:488][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.04.24-15.41.14:488][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Raven/Documents/GitHub/U51-TW_New/Saved/Config/Windows/Engine.ini]
+[2020.04.24-15.41.14:488][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.24-15.41.14:488][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.24-15.41.14:488][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.24-15.41.14:488][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.24-15.41.14:488][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.24-15.41.14:488][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.24-15.41.14:488][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.04.24-15.41.14:488][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.24-15.41.14:488][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.24-15.41.14:488][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.24-15.41.14:488][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.24-15.41.14:488][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.24-15.41.14:488][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.24-15.41.14:488][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Raven/Documents/GitHub/U51-TW_New/Saved/Config/Windows/Engine.ini]
+[2020.04.24-15.41.14:488][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Raven/Documents/GitHub/U51-TW_New/Saved/Config/Windows/Engine.ini]
+[2020.04.24-15.41.14:493][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Raven/Documents/GitHub/U51-TW_New/Saved/Config/Windows/Scalability.ini]
+[2020.04.24-15.41.14:493][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.24-15.41.14:493][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.24-15.41.14:493][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Raven/Documents/GitHub/U51-TW_New/Saved/Config/Windows/Scalability.ini]
+[2020.04.24-15.41.14:493][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.24-15.41.14:493][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Raven/Documents/GitHub/U51-TW_New/Saved/Config/Windows/Scalability.ini]
+[2020.04.24-15.41.14:493][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.24-15.41.14:493][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.24-15.41.14:493][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.24-15.41.14:493][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.24-15.41.14:493][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.24-15.41.14:493][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.24-15.41.14:493][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.24-15.41.14:493][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.24-15.41.14:493][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.24-15.41.14:493][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.24-15.41.14:493][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Raven/Documents/GitHub/U51-TW_New/Saved/Config/Windows/Scalability.ini]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Raven/Documents/GitHub/U51-TW_New/Saved/Config/Windows/Scalability.ini]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Raven/Documents/GitHub/U51-TW_New/Saved/Config/Windows/Scalability.ini]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.24-15.41.14:494][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Raven/Documents/GitHub/U51-TW_New/Saved/Config/Windows/Scalability.ini]
+[2020.04.24-15.41.14:495][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.24-15.41.14:495][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.24-15.41.14:495][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Raven/Documents/GitHub/U51-TW_New/Saved/Config/Windows/Scalability.ini]
+[2020.04.24-15.41.14:495][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.24-15.41.14:495][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.24-15.41.14:495][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.24-15.41.14:495][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.24-15.41.14:495][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.24-15.41.14:521][  0]LogHAL: Display: Platform has ~ 16 GB [17142034432 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.24-15.41.14:521][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.24-15.41.14:521][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Raven/Documents/GitHub/U51-TW_New/Saved/Config/Windows/Scalability.ini]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Raven/Documents/GitHub/U51-TW_New/Saved/Config/Windows/Scalability.ini]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Raven/Documents/GitHub/U51-TW_New/Saved/Config/Windows/Scalability.ini]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Raven/Documents/GitHub/U51-TW_New/Saved/Config/Windows/Scalability.ini]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.24-15.41.14:521][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Raven/Documents/GitHub/U51-TW_New/Saved/Config/Windows/Scalability.ini]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Raven/Documents/GitHub/U51-TW_New/Saved/Config/Windows/Scalability.ini]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Raven/Documents/GitHub/U51-TW_New/Saved/Config/Windows/Scalability.ini]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Raven/Documents/GitHub/U51-TW_New/Saved/Config/Windows/Scalability.ini]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.24-15.41.14:522][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.24-15.41.14:542][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.24-15.41.14:542][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.24-15.41.14:542][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Raven/Documents/GitHub/U51-TW_New/Saved/Config/Windows/Engine.ini]
+[2020.04.24-15.41.14:542][  0]LogInit: Computer: RAVEN
+[2020.04.24-15.41.14:542][  0]LogInit: User: Raven
+[2020.04.24-15.41.14:542][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.04.24-15.41.14:542][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.24-15.41.14:542][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.04.24-15.41.14:542][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.24-15.41.14:542][  0]LogMemory: Process Physical Memory: 109.15 MB used, 109.16 MB peak
+[2020.04.24-15.41.14:542][  0]LogMemory: Process Virtual Memory: 101.19 MB used, 101.19 MB peak
+[2020.04.24-15.41.14:542][  0]LogMemory: Physical Memory: 8086.21 MB used,  8261.70 MB free, 16347.92 MB total
+[2020.04.24-15.41.14:542][  0]LogMemory: Virtual Memory: 5199.08 MB used,  134212528.00 MB free, 134217728.00 MB total
+[2020.04.24-15.41.14:547][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.24-15.41.14:855][  0]LogInit: Using OS detected language (en-US).
+[2020.04.24-15.41.14:855][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.24-15.41.14:856][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.24-15.41.15:346][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.24-15.41.15:877][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.24-15.41.15:877][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.24-15.41.19:209][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.24-15.41.19:209][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.04.24-15.41.19:209][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.04.24-15.41.19:209][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.24-15.41.19:279][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2020.04.24-15.41.19:279][  0]LogD3D11RHI:       2988/0/8173 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.04.24-15.41.19:282][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.24-15.41.19:282][  0]LogD3D11RHI:       0/0/8173 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.24-15.41.19:282][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.24-15.41.19:289][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.24-15.41.19:289][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.24-15.41.19:289][  0]LogWindows: EnumDisplayDevices:
+[2020.04.24-15.41.19:289][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2020.04.24-15.41.19:289][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:1)
+[2020.04.24-15.41.19:290][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2020.04.24-15.41.19:290][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2020.04.24-15.41.19:290][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.04.24-15.41.19:290][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2020.04.24-15.41.19:290][  0]LogD3D11RHI:   Driver Version: 441.41 (internal:26.21.14.4141, unified:441.41)
+[2020.04.24-15.41.19:290][  0]LogD3D11RHI:      Driver Date: 11-20-2019
+[2020.04.24-15.41.19:290][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2020.04.24-15.41.19:325][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.04.24-15.41.19:325][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.24-15.41.19:365][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.24-15.41.20:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.04.24-15.41.20:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.04.24-15.41.20:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.04.24-15.41.20:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.04.24-15.41.20:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.04.24-15.41.20:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.04.24-15.41.20:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.04.24-15.41.20:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.04.24-15.41.20:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.04.24-15.41.20:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.04.24-15.41.20:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.24-15.41.20:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.04.24-15.41.20:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.04.24-15.41.20:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.24-15.41.20:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.24-15.41.20:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.24-15.41.20:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.24-15.41.20:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.04.24-15.41.20:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.04.24-15.41.20:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.04.24-15.41.20:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.04.24-15.41.20:203][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.24-15.41.20:221][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.04.24-15.41.20:234][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.04.24-15.41.20:250][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.04.24-15.41.20:264][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.04.24-15.41.20:279][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.04.24-15.41.20:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.04.24-15.41.20:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.04.24-15.41.20:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.04.24-15.41.20:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.04.24-15.41.20:348][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.24-15.41.20:370][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.04.24-15.41.20:384][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.04.24-15.41.20:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.04.24-15.41.20:399][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.24-15.41.20:485][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.24-15.41.20:796][  0]LogShaderCompilers: Guid format shader working directory is 3 characters bigger than the processId version (C:/Users/Raven/Documents/GitHub/U51-TW_New/Intermediate/Shaders/WorkingDirectory/17144/).
+[2020.04.24-15.41.20:796][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Raven/AppData/Local/Temp/UnrealShaderWorkingDir/E4236EE4409357B0B556419FC27D0612/'.
+[2020.04.24-15.41.20:813][  0]LogXGEController: Cleaning working directory: C:/Users/Raven/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.04.24-15.41.20:813][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.24-15.41.20:813][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.24-15.41.20:813][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.24-15.41.28:034][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.24-15.41.28:237][  0]LogDerivedDataCache: Loaded boot cache 0.20s 78MB C:/Users/Raven/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.24-15.41.28:237][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Raven/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.04.24-15.41.28:238][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Raven/Documents/GitHub/U51-TW_New/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.24-15.41.28:238][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.24-15.41.28:238][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Raven/Documents/GitHub/U51-TW_New/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.24-15.41.28:238][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.24-15.41.28:286][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.24-15.41.28:286][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.24-15.41.28:286][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.24-15.41.28:287][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Raven/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.24-15.41.28:288][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.24-15.41.28:288][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.24-15.41.28:312][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.24-15.41.28:314][  0]LogSlate: Using FreeType 2.10.0
+[2020.04.24-15.41.28:391][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.24-15.41.29:521][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2020.04.24-15.41.29:851][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.24-15.41.31:177][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.24-15.41.31:177][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.24-15.41.31:177][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.24-15.41.31:177][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.24-15.41.31:177][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.24-15.41.31:189][  0]LogNetVersion: U51TW 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3923213827)
+[2020.04.24-15.41.31:228][  0]LogInput: Warning: Action Jump uses deprecated key MotionController_Left_Trigger.
+[2020.04.24-15.41.31:228][  0]LogInput: Warning: Action ResetVR uses deprecated key MotionController_Left_Grip1.
+[2020.04.24-15.41.31:228][  0]LogInput: Warning: Action Jump uses deprecated key MotionController_Right_Trigger.
+[2020.04.24-15.41.31:228][  0]LogInput: Warning: Axis MoveForward uses deprecated key MotionController_Left_Thumbstick_Y.
+[2020.04.24-15.41.31:228][  0]LogInput: Warning: Axis MoveRight uses deprecated key MotionController_Left_Thumbstick_X.
+[2020.04.24-15.41.31:228][  0]LogInput: Warning: Axis TurnRate uses deprecated key MotionController_Right_Thumbstick_X.
+[2020.04.24-15.42.06:617][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.036626 seconds
+[2020.04.24-15.42.06:624][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.04.24-15.42.06:624][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.04.24-15.42.06:624][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.24-15.42.11:175][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.24-15.42.11:244][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.24-15.42.13:427][  0]SourceControl: Source control is disabled
+[2020.04.24-15.42.13:427][  0]SourceControl: Source control is disabled
+[2020.04.24-15.42.13:544][  0]SourceControl: Source control is disabled
+[2020.04.24-15.42.13:608][  0]SourceControl: Source control is disabled
+[2020.04.24-15.42.13:657][  0]SourceControl: Source control is disabled
+[2020.04.24-15.42.15:547][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.24-15.42.15:718][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.24-15.42.15:718][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.24-15.42.16:223][  0]LogOcInput: OculusInput pre-init called
+[2020.04.24-15.42.16:361][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.24-15.42.16:361][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.24-15.42.16:547][  0]LogEngine: Initializing Engine...
+[2020.04.24-15.42.16:548][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.24-15.42.16:548][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.24-15.42.16:840][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.24-15.42.17:023][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.24-15.42.17:038][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.24-15.42.17:038][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.24-15.42.17:038][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.24-15.42.17:038][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.24-15.42.17:038][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.24-15.42.17:038][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.24-15.42.17:038][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.24-15.42.17:038][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.24-15.42.17:039][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.24-15.42.17:039][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.24-15.42.17:062][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.24-15.42.17:062][  0]LogAudioMixer: Display: Name: Headphones (Arctis 5 Game)
+[2020.04.24-15.42.17:062][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.04.24-15.42.17:062][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.24-15.42.17:062][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.24-15.42.17:062][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.24-15.42.17:062][  0]LogAudioMixer: Display: Channel Order:
+[2020.04.24-15.42.17:062][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.24-15.42.17:062][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.04.24-15.42.17:077][  0]LogAudioMixer: Display: Using Audio Device Headphones (Arctis 5 Game)
+[2020.04.24-15.42.17:085][  0]LogInit: FAudioDevice initialized.
+[2020.04.24-15.42.17:086][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.24-15.42.17:295][  0]LogDerivedDataCache: Saved boot cache 0.21s 78MB C:/Users/Raven/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.24-15.42.17:299][  0]LogInit: Texture streaming: Enabled
+[2020.04.24-15.42.17:516][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.24-15.42.17:516][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.24-15.42.17:542][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.24-15.42.17:913][  0]LogInit: Transaction tracking system initialized
+[2020.04.24-15.42.18:367][  0]BlueprintLog: New page: Editor Load
+[2020.04.24-15.42.19:292][  0]LocalizationService: Localization service is disabled
+[2020.04.24-15.42.19:819][  0]LogLinker: Warning: Failed to load '/Game/InventorySystem/InventoryTutorial': Can't find file.
+[2020.04.24-15.42.19:819][  0]LogLinker: Warning: Failed to load '/Game/InventorySystem/InventoryTutorial': Can't find file.
+[2020.04.24-15.42.19:819][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/InventorySystem/InventoryTutorial.InventoryTutorial_C'
+[2020.04.24-15.42.20:784][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.24-15.42.20:784][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.24-15.42.21:349][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Raven/Documents/GitHub/U51-TW_New/Content/' took 0.01s
+[2020.04.24-15.42.27:603][  0]SourceControl: Source control is disabled
+[2020.04.24-15.42.27:603][  0]Cmd: MAP LOAD FILE="C:/Users/Raven/Documents/GitHub/U51-TW_New/Content/Game/U51TW_StationMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.24-15.42.27:603][  0]LightingResults: New page: Lighting Build
+[2020.04.24-15.42.27:673][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.24-15.42.27:673][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.24-15.42.27:673][  0]MapCheck: New page: Map Check
+[2020.04.24-15.42.27:673][  0]LightingResults: New page: Lighting Build
+[2020.04.24-15.42.27:743][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.04.24-15.42.29:268][  0]LogTexture: Display: Building textures: T_GlowSphere_01 (AutoDXT, 512X512)
+[2020.04.24-15.42.29:268][  0]LogTexture: Display: Building textures: T_AssaultRifle_MuzzleFlashes_01 (AutoDXT, 512X512)
+[2020.04.24-15.42.29:268][  0]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2020.04.24-15.42.29:268][  0]LogTexture: Display: Building textures: T_DistortionCrystals_Mask_01 (AutoDXT, 1024X1024)
+[2020.04.24-15.42.29:268][  0]LogTexture: Display: Building textures: T_DistortionCrystals_01 (BC5, 1024X1024)
+[2020.04.24-15.42.29:268][  0]LogTexture: Display: Building textures: T_Plasma_Detail_01 (AutoDXT, 1024X1024)
+[2020.04.24-15.42.29:268][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2020.04.24-15.42.29:268][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.04.24-15.42.29:268][  0]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2020.04.24-15.42.29:268][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2020.04.24-15.42.29:268][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.04.24-15.42.29:269][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2020.04.24-15.42.29:269][  0]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2020.04.24-15.42.29:269][  0]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 256X128)
+[2020.04.24-15.42.29:269][  0]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2020.04.24-15.42.29:269][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 64X64)
+[2020.04.24-15.42.29:269][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2020.04.24-15.42.29:269][  0]LogTexture: Display: Building textures: T_Plasma_A_01 (AutoDXT, 4096X1024)
+[2020.04.24-15.42.34:686][  0]LogTexture: Display: Building textures: T_White_Shotgun_Masks (AutoDXT, 2048X2048)
+[2020.04.24-15.42.34:687][  0]LogTexture: Display: Building textures: T_White_Shotgun_D (AutoDXT, 2048X2048)
+[2020.04.24-15.42.34:687][  0]LogTexture: Display: Building textures: AttackerBaseColor (AutoDXT, 4096X4096)
+[2020.04.24-15.42.34:687][  0]LogTexture: Display: Building textures: AttackerOcclusionRoughnessMetallic (AutoDXT, 4096X4096)
+[2020.04.24-15.42.34:687][  0]LogTexture: Display: Building textures: T_Ember_01 (AutoDXT, 256X256)
+[2020.04.24-15.42.34:687][  0]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2020.04.24-15.42.34:687][  0]LogTexture: Display: Building textures: AttackerNormal (BC5, 4096X4096)
+[2020.04.24-15.42.34:687][  0]LogTexture: Display: Building textures: T_White_ShotgunColor_M (AutoDXT, 2048X2048)
+[2020.04.24-15.42.34:687][  0]LogTexture: Display: Building textures: T_White_Shotgun_N (BC5, 2048X2048)
+[2020.04.24-15.42.34:687][  0]LogTexture: Display: Building textures: T_White_AssaultRifle_Masks (AutoDXT, 2048X2048)
+[2020.04.24-15.42.35:542][  0]LogTexture: Display: Building textures: T_White_AssaultRifleColor_M (AutoDXT, 2048X2048)
+[2020.04.24-15.42.35:542][  0]LogTexture: Display: Building textures: T_White_AssaultRifle_N (BC5, 2048X2048)
+[2020.04.24-15.42.35:542][  0]LogTexture: Display: Building textures: T_White_AssaultRifle_Masks2 (AutoDXT, 2048X2048)
+[2020.04.24-15.42.35:542][  0]LogTexture: Display: Building textures: T_White_AssaultRifle_D (AutoDXT, 2048X2048)
+[2020.04.24-15.42.35:542][  0]LogTexture: Display: Building textures: T_Plasma_B_01 (AutoDXT, 8192X2048)
+[2020.04.24-15.42.45:649][  0]LogTexture: Display: Building textures: T_Sparks_02 (AutoDXT, 128X512)
+[2020.04.24-15.42.45:649][  0]LogTexture: Display: Building textures: T_Pistol_Streaks_01 (AutoDXT, 32X128)
+[2020.04.24-15.42.45:649][  0]LogTexture: Display: Building textures: T_PlasmaMask_01 (AutoDXT, 1024X1024)
+[2020.04.24-15.42.45:649][  0]LogTexture: Display: Building textures: T_NoiseMask_01 (AutoDXT, 1024X1024)
+[2020.04.24-15.42.45:649][  0]LogTexture: Display: Building textures: T_FrameClamp (AutoDXT, 256X256)
+[2020.04.24-15.42.45:797][  0]LogMaterial: Display: Missing cached shader map for material M_Plasma_01, compiling. 
+[2020.04.24-15.42.45:916][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.04.24-15.42.45:916][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.04.24-15.42.45:916][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.04.24-15.42.45:916][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.04.24-15.42.45:916][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 2
+[2020.04.24-15.42.45:917][  0]LogMaterial: Display: Missing cached shader map for material M_Pop_01, compiling. 
+[2020.04.24-15.42.45:937][  0]LogMaterial: Display: Missing cached shader map for material M_CrystalRefraction_01, compiling. 
+[2020.04.24-15.42.46:009][  0]LogMaterial: Display: Missing cached shader map for material M_AssualtRifle_Core_01, compiling. 
+[2020.04.24-15.42.46:084][  0]LogMaterial: Display: Missing cached shader map for material M_AssaultRifle_MuzzleFlash_4x1, compiling. 
+[2020.04.24-15.42.46:577][  0]LogMaterial: Display: Missing cached shader map for material M_Pistol_Streaks_01, compiling. 
+[2020.04.24-15.42.47:092][  0]LogStaticMesh: Building static mesh St_AssualtRifle_Core_01...
+[2020.04.24-15.42.47:240][  0]LogStaticMesh: Built static mesh [0.13s] /Game/Weapons/FX/Meshes/St_AssualtRifle_Core_01.St_AssualtRifle_Core_01
+[2020.04.24-15.42.47:297][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Weapons/Weapons/Animations/Fire_Rifle_W.Fire_Rifle_W
+[2020.04.24-15.42.47:306][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Weapons/Weapons/Animations/Fire_Rifle_W.Fire_Rifle_W) using current/default (AnimCompress_RemoveLinearKeys_11) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.24-15.42.47:313][  0]LogMaterial: Display: Missing cached shader map for material M_SimpleEmissiveRedOrange, compiling. 
+[2020.04.24-15.42.47:409][  0]LogMaterial: Display: Missing cached shader map for material Attacker_Mat, compiling. 
+[2020.04.24-15.42.47:461][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2020.04.24-15.42.47:461][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2020.04.24-15.42.47:464][  0]LogSkeletalMesh: Building Skeletal Mesh Attacker...
+[2020.04.24-15.42.47:587][  0]LogSkeletalMesh: Built Skeletal Mesh [0.12s] /Game/Attacker/Mesh/Attacker.Attacker
+[2020.04.24-15.42.47:652][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/RootMotion/Rifle_RunLeft135Loop.Rifle_RunLeft135Loop
+[2020.04.24-15.42.47:652][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Character/Animations/RootMotion/Rifle_RunLeft135Loop.Rifle_RunLeft135Loop) using current/default (AnimCompress_BitwiseCompressOnly_232) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.24-15.42.47:654][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/RootMotion/Rifle_RunFwdLoop.Rifle_RunFwdLoop
+[2020.04.24-15.42.47:654][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Character/Animations/RootMotion/Rifle_RunFwdLoop.Rifle_RunFwdLoop) using current/default (AnimCompress_BitwiseCompressOnly_210) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.24-15.42.47:659][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/RootMotion/Rifle_RunBwdLoop.Rifle_RunBwdLoop
+[2020.04.24-15.42.47:659][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Character/Animations/RootMotion/Rifle_RunBwdLoop.Rifle_RunBwdLoop) using current/default (AnimCompress_BitwiseCompressOnly_209) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.24-15.42.47:661][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/RootMotion/Rifle_TurnR_90Loop.Rifle_TurnR_90Loop
+[2020.04.24-15.42.47:661][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Character/Animations/RootMotion/Rifle_TurnR_90Loop.Rifle_TurnR_90Loop) using current/default (AnimCompress_BitwiseCompressOnly_243) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.24-15.42.47:665][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/RootMotion/Rifle_TurnL_90Loop.Rifle_TurnL_90Loop
+[2020.04.24-15.42.47:665][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Character/Animations/RootMotion/Rifle_TurnL_90Loop.Rifle_TurnL_90Loop) using current/default (AnimCompress_BitwiseCompressOnly_240) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.24-15.42.47:668][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/RootMotion/Rifle_Idle.Rifle_Idle
+[2020.04.24-15.42.47:668][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Character/Animations/RootMotion/Rifle_Idle.Rifle_Idle) using current/default (AnimCompress_BitwiseCompressOnly_175) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.24-15.42.47:683][  0]LogMaterial: Display: Missing cached shader map for material M_WeaponMaster, compiling. 
+[2020.04.24-15.42.47:739][  0]LogMaterial: Display: Missing cached shader map for material M_WeaponMaster, compiling. 
+[2020.04.24-15.42.47:778][  0]LogSkeletalMesh: Building Skeletal Mesh White_Shotgun...
+[2020.04.24-15.42.47:813][  0]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Weapons/Weapons/Mesh/White_Shotgun.White_Shotgun
+[2020.04.24-15.42.47:816][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Shotgun_Reload03...
+[2020.04.24-15.42.47:821][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Weapons/Sound/Shotgun/Wavs/Shotgun_Reload03.Shotgun_Reload03 will be modified from 80 to 80.
+[2020.04.24-15.42.47:902][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 124264 while cooking SoundWave /Game/Weapons/Sound/Shotgun/Wavs/Shotgun_Reload03.Shotgun_Reload03.
+[2020.04.24-15.42.47:903][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Shotgun_Reload02...
+[2020.04.24-15.42.47:903][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Weapons/Sound/Shotgun/Wavs/Shotgun_Reload02.Shotgun_Reload02 will be modified from 80 to 80.
+[2020.04.24-15.42.47:925][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 117582 while cooking SoundWave /Game/Weapons/Sound/Shotgun/Wavs/Shotgun_Reload02.Shotgun_Reload02.
+[2020.04.24-15.42.47:926][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Shotgun_Reload01...
+[2020.04.24-15.42.47:926][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Weapons/Sound/Shotgun/Wavs/Shotgun_Reload01.Shotgun_Reload01 will be modified from 80 to 80.
+[2020.04.24-15.42.47:945][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 102576 while cooking SoundWave /Game/Weapons/Sound/Shotgun/Wavs/Shotgun_Reload01.Shotgun_Reload01.
+[2020.04.24-15.42.47:946][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Shotgun_Fire_ST04...
+[2020.04.24-15.42.47:946][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Weapons/Sound/Shotgun/Wavs/Shotgun_Fire_ST04.Shotgun_Fire_ST04 will be modified from 80 to 80.
+[2020.04.24-15.42.48:013][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 452184 while cooking SoundWave /Game/Weapons/Sound/Shotgun/Wavs/Shotgun_Fire_ST04.Shotgun_Fire_ST04.
+[2020.04.24-15.42.48:014][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Shotgun_Fire_ST03...
+[2020.04.24-15.42.48:017][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Weapons/Sound/Shotgun/Wavs/Shotgun_Fire_ST03.Shotgun_Fire_ST03 will be modified from 80 to 80.
+[2020.04.24-15.42.48:083][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 473680 while cooking SoundWave /Game/Weapons/Sound/Shotgun/Wavs/Shotgun_Fire_ST03.Shotgun_Fire_ST03.
+[2020.04.24-15.42.48:084][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Shotgun_Fire_ST02...
+[2020.04.24-15.42.48:084][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Weapons/Sound/Shotgun/Wavs/Shotgun_Fire_ST02.Shotgun_Fire_ST02 will be modified from 80 to 80.
+[2020.04.24-15.42.48:150][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 468560 while cooking SoundWave /Game/Weapons/Sound/Shotgun/Wavs/Shotgun_Fire_ST02.Shotgun_Fire_ST02.
+[2020.04.24-15.42.48:160][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Shotgun_Fire_ST01...
+[2020.04.24-15.42.48:160][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Weapons/Sound/Shotgun/Wavs/Shotgun_Fire_ST01.Shotgun_Fire_ST01 will be modified from 80 to 80.
+[2020.04.24-15.42.48:232][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 499576 while cooking SoundWave /Game/Weapons/Sound/Shotgun/Wavs/Shotgun_Fire_ST01.Shotgun_Fire_ST01.
+[2020.04.24-15.42.48:237][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Shotgun_Fire04...
+[2020.04.24-15.42.48:237][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Weapons/Sound/Shotgun/Wavs/Shotgun_Fire04.Shotgun_Fire04 will be modified from 80 to 80.
+[2020.04.24-15.42.48:271][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 231498 while cooking SoundWave /Game/Weapons/Sound/Shotgun/Wavs/Shotgun_Fire04.Shotgun_Fire04.
+[2020.04.24-15.42.48:272][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Shotgun_Fire03...
+[2020.04.24-15.42.48:272][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Weapons/Sound/Shotgun/Wavs/Shotgun_Fire03.Shotgun_Fire03 will be modified from 80 to 80.
+[2020.04.24-15.42.48:310][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 248652 while cooking SoundWave /Game/Weapons/Sound/Shotgun/Wavs/Shotgun_Fire03.Shotgun_Fire03.
+[2020.04.24-15.42.48:311][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Shotgun_Fire02...
+[2020.04.24-15.42.48:311][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Weapons/Sound/Shotgun/Wavs/Shotgun_Fire02.Shotgun_Fire02 will be modified from 80 to 80.
+[2020.04.24-15.42.48:343][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 235472 while cooking SoundWave /Game/Weapons/Sound/Shotgun/Wavs/Shotgun_Fire02.Shotgun_Fire02.
+[2020.04.24-15.42.48:343][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Shotgun_Fire01...
+[2020.04.24-15.42.48:343][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Weapons/Sound/Shotgun/Wavs/Shotgun_Fire01.Shotgun_Fire01 will be modified from 80 to 80.
+[2020.04.24-15.42.48:385][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 259838 while cooking SoundWave /Game/Weapons/Sound/Shotgun/Wavs/Shotgun_Fire01.Shotgun_Fire01.
+[2020.04.24-15.42.48:389][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Weapons/Weapons/Animations/Fire_Shotgun_W.Fire_Shotgun_W
+[2020.04.24-15.42.48:389][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Weapons/Weapons/Animations/Fire_Shotgun_W.Fire_Shotgun_W) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.24-15.42.48:446][  0]LogSkeletalMesh: Building Skeletal Mesh UE4_Mannequin...
+[2020.04.24-15.42.48:595][  0]LogSkeletalMesh: Built Skeletal Mesh [0.15s] /Game/Character/Mesh/UE4_Mannequin.UE4_Mannequin
+[2020.04.24-15.42.48:613][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/RootMotion/Rifle_WalkRightLoop.Rifle_WalkRightLoop
+[2020.04.24-15.42.48:613][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Character/Animations/RootMotion/Rifle_WalkRightLoop.Rifle_WalkRightLoop) using current/default (AnimCompress_BitwiseCompressOnly_228) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.24-15.42.48:617][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/RootMotion/Rifle_WalkRight45Loop.Rifle_WalkRight45Loop
+[2020.04.24-15.42.48:617][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Character/Animations/RootMotion/Rifle_WalkRight45Loop.Rifle_WalkRight45Loop) using current/default (AnimCompress_BitwiseCompressOnly_227) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.24-15.42.48:619][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/RootMotion/Rifle_WalkRight135Loop.Rifle_WalkRight135Loop
+[2020.04.24-15.42.48:619][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Character/Animations/RootMotion/Rifle_WalkRight135Loop.Rifle_WalkRight135Loop) using current/default (AnimCompress_BitwiseCompressOnly_226) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.24-15.42.48:620][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/RootMotion/Rifle_WalkLeftLoop.Rifle_WalkLeftLoop
+[2020.04.24-15.42.48:621][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Character/Animations/RootMotion/Rifle_WalkLeftLoop.Rifle_WalkLeftLoop) using current/default (AnimCompress_BitwiseCompressOnly_222) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.24-15.42.48:623][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/RootMotion/Rifle_WalkLeft45Loop.Rifle_WalkLeft45Loop
+[2020.04.24-15.42.48:623][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Character/Animations/RootMotion/Rifle_WalkLeft45Loop.Rifle_WalkLeft45Loop) using current/default (AnimCompress_BitwiseCompressOnly_221) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.24-15.42.48:626][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/RootMotion/Rifle_WalkLeft135Loop.Rifle_WalkLeft135Loop
+[2020.04.24-15.42.48:627][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Character/Animations/RootMotion/Rifle_WalkLeft135Loop.Rifle_WalkLeft135Loop) using current/default (AnimCompress_BitwiseCompressOnly_220) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.24-15.42.48:629][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/RootMotion/Rifle_WalkFwdLoop.Rifle_WalkFwdLoop
+[2020.04.24-15.42.48:629][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Character/Animations/RootMotion/Rifle_WalkFwdLoop.Rifle_WalkFwdLoop) using current/default (AnimCompress_BitwiseCompressOnly_249) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.24-15.42.48:633][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/RootMotion/Rifle_WalkBwdLoop.Rifle_WalkBwdLoop
+[2020.04.24-15.42.48:633][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Character/Animations/RootMotion/Rifle_WalkBwdLoop.Rifle_WalkBwdLoop) using current/default (AnimCompress_BitwiseCompressOnly_245) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.24-15.42.48:636][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/RootMotion/Rifle_SprintLoop.Rifle_SprintLoop
+[2020.04.24-15.42.48:636][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Character/Animations/RootMotion/Rifle_SprintLoop.Rifle_SprintLoop) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.24-15.42.48:639][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/RootMotion/Rifle_RunRightLoop.Rifle_RunRightLoop
+[2020.04.24-15.42.48:639][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Character/Animations/RootMotion/Rifle_RunRightLoop.Rifle_RunRightLoop) using current/default (AnimCompress_BitwiseCompressOnly_237) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.24-15.42.48:643][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/RootMotion/Rifle_RunRight45Loop.Rifle_RunRight45Loop
+[2020.04.24-15.42.48:643][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Character/Animations/RootMotion/Rifle_RunRight45Loop.Rifle_RunRight45Loop) using current/default (AnimCompress_BitwiseCompressOnly_235) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.24-15.42.48:646][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/RootMotion/Rifle_RunRight135Loop.Rifle_RunRight135Loop
+[2020.04.24-15.42.48:647][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Character/Animations/RootMotion/Rifle_RunRight135Loop.Rifle_RunRight135Loop) using current/default (AnimCompress_BitwiseCompressOnly_233) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.24-15.42.48:648][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/RootMotion/Rifle_RunLeftLoop.Rifle_RunLeftLoop
+[2020.04.24-15.42.48:648][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Character/Animations/RootMotion/Rifle_RunLeftLoop.Rifle_RunLeftLoop) using current/default (AnimCompress_BitwiseCompressOnly_236) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.24-15.42.48:651][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/RootMotion/Rifle_RunLeft45Loop.Rifle_RunLeft45Loop
+[2020.04.24-15.42.48:651][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Character/Animations/RootMotion/Rifle_RunLeft45Loop.Rifle_RunLeft45Loop) using current/default (AnimCompress_BitwiseCompressOnly_234) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.24-15.42.48:657][  0]LogSkeletalMesh: Building Skeletal Mesh White_AssaultRifle...
+[2020.04.24-15.42.48:677][  0]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Weapons/Weapons/Mesh/White_AssaultRifle.White_AssaultRifle
+[2020.04.24-15.42.48:678][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Rifle_Fire_ST06...
+[2020.04.24-15.42.48:678][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Weapons/Sound/Rifle/Wavs/Rifle_Fire_ST06.Rifle_Fire_ST06 will be modified from 80 to 80.
+[2020.04.24-15.42.48:717][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 118280 while cooking SoundWave /Game/Weapons/Sound/Rifle/Wavs/Rifle_Fire_ST06.Rifle_Fire_ST06.
+[2020.04.24-15.42.48:717][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Rifle_Fire_ST05...
+[2020.04.24-15.42.48:717][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Weapons/Sound/Rifle/Wavs/Rifle_Fire_ST05.Rifle_Fire_ST05 will be modified from 80 to 80.
+[2020.04.24-15.42.48:745][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 133704 while cooking SoundWave /Game/Weapons/Sound/Rifle/Wavs/Rifle_Fire_ST05.Rifle_Fire_ST05.
+[2020.04.24-15.42.48:746][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Rifle_Fire_ST04...
+[2020.04.24-15.42.48:746][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Weapons/Sound/Rifle/Wavs/Rifle_Fire_ST04.Rifle_Fire_ST04 will be modified from 80 to 80.
+[2020.04.24-15.42.48:777][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 115188 while cooking SoundWave /Game/Weapons/Sound/Rifle/Wavs/Rifle_Fire_ST04.Rifle_Fire_ST04.
+[2020.04.24-15.42.48:778][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Rifle_Fire_ST03...
+[2020.04.24-15.42.48:778][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Weapons/Sound/Rifle/Wavs/Rifle_Fire_ST03.Rifle_Fire_ST03 will be modified from 80 to 80.
+[2020.04.24-15.42.48:810][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 117340 while cooking SoundWave /Game/Weapons/Sound/Rifle/Wavs/Rifle_Fire_ST03.Rifle_Fire_ST03.
+[2020.04.24-15.42.48:811][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Rifle_Fire_ST02...
+[2020.04.24-15.42.48:811][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Weapons/Sound/Rifle/Wavs/Rifle_Fire_ST02.Rifle_Fire_ST02 will be modified from 80 to 80.
+[2020.04.24-15.42.48:838][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 93584 while cooking SoundWave /Game/Weapons/Sound/Rifle/Wavs/Rifle_Fire_ST02.Rifle_Fire_ST02.
+[2020.04.24-15.42.48:838][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Rifle_Fire_ST01...
+[2020.04.24-15.42.48:839][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Weapons/Sound/Rifle/Wavs/Rifle_Fire_ST01.Rifle_Fire_ST01 will be modified from 80 to 80.
+[2020.04.24-15.42.48:870][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 108132 while cooking SoundWave /Game/Weapons/Sound/Rifle/Wavs/Rifle_Fire_ST01.Rifle_Fire_ST01.
+[2020.04.24-15.42.48:871][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Rifle_Fire06...
+[2020.04.24-15.42.48:871][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Weapons/Sound/Rifle/Wavs/Rifle_Fire06.Rifle_Fire06 will be modified from 80 to 80.
+[2020.04.24-15.42.48:891][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 62400 while cooking SoundWave /Game/Weapons/Sound/Rifle/Wavs/Rifle_Fire06.Rifle_Fire06.
+[2020.04.24-15.42.48:891][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Rifle_Fire05...
+[2020.04.24-15.42.48:891][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Weapons/Sound/Rifle/Wavs/Rifle_Fire05.Rifle_Fire05 will be modified from 80 to 80.
+[2020.04.24-15.42.48:906][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 66980 while cooking SoundWave /Game/Weapons/Sound/Rifle/Wavs/Rifle_Fire05.Rifle_Fire05.
+[2020.04.24-15.42.48:907][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Rifle_Fire04...
+[2020.04.24-15.42.48:907][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Weapons/Sound/Rifle/Wavs/Rifle_Fire04.Rifle_Fire04 will be modified from 80 to 80.
+[2020.04.24-15.42.48:925][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 59646 while cooking SoundWave /Game/Weapons/Sound/Rifle/Wavs/Rifle_Fire04.Rifle_Fire04.
+[2020.04.24-15.42.48:938][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Rifle_Fire03...
+[2020.04.24-15.42.48:938][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Weapons/Sound/Rifle/Wavs/Rifle_Fire03.Rifle_Fire03 will be modified from 80 to 80.
+[2020.04.24-15.42.48:956][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 58852 while cooking SoundWave /Game/Weapons/Sound/Rifle/Wavs/Rifle_Fire03.Rifle_Fire03.
+[2020.04.24-15.42.48:956][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Rifle_Fire02...
+[2020.04.24-15.42.48:956][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Weapons/Sound/Rifle/Wavs/Rifle_Fire02.Rifle_Fire02 will be modified from 80 to 80.
+[2020.04.24-15.42.48:971][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 46794 while cooking SoundWave /Game/Weapons/Sound/Rifle/Wavs/Rifle_Fire02.Rifle_Fire02.
+[2020.04.24-15.42.48:972][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Rifle_Fire01...
+[2020.04.24-15.42.48:972][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Weapons/Sound/Rifle/Wavs/Rifle_Fire01.Rifle_Fire01 will be modified from 80 to 80.
+[2020.04.24-15.42.48:991][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 54256 while cooking SoundWave /Game/Weapons/Sound/Rifle/Wavs/Rifle_Fire01.Rifle_Fire01.
+[2020.04.24-15.42.49:005][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/RootMotion/Rifle_WalkFwdStop_LU.Rifle_WalkFwdStop_LU
+[2020.04.24-15.42.49:005][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Character/Animations/RootMotion/Rifle_WalkFwdStop_LU.Rifle_WalkFwdStop_LU) using current/default (AnimCompress_BitwiseCompressOnly_255) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.24-15.42.49:010][  0]LogAIModule: Creating AISystem for world U51TW_StationMap
+[2020.04.24-15.42.49:015][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 342
+[2020.04.24-15.42.49:015][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.24-15.42.49:049][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2020.04.24-15.42.49:052][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.24-15.42.49:053][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.243ms to complete.
+[2020.04.24-15.42.49:053][  0]LogFileHelpers: Loading map 'U51TW_StationMap' took 21.450
+[2020.04.24-15.42.49:235][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-15.42.49:244][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-15.42.49:253][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-15.42.49:262][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-15.42.49:278][  0]LogCollectionManager: Loaded 0 collections in 0.001253 seconds
+[2020.04.24-15.42.49:314][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Raven/Documents/GitHub/U51-TW_New/Saved/Collections/' took 0.00s
+[2020.04.24-15.42.49:314][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Raven/Documents/GitHub/U51-TW_New/Content/Developers/Raven/Collections/' took 0.00s
+[2020.04.24-15.42.49:314][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Raven/Documents/GitHub/U51-TW_New/Content/Collections/' took 0.00s
+[2020.04.24-15.42.49:315][  0]LogContentBrowser: Native class hierarchy populated in 0.0123 seconds. Added 3024 classes and 722 folders.
+[2020.04.24-15.42.49:345][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.04.24-15.42.50:527][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 332
+[2020.04.24-15.42.50:527][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 322
+[2020.04.24-15.42.50:527][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 312
+[2020.04.24-15.42.50:527][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 302
+[2020.04.24-15.42.50:527][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.24-15.42.50:558][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.04.24-15.42.50:774][  0]LogSlate: Took 0.020538 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.24-15.42.50:788][  0]LogSlate: Took 0.011433 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.24-15.42.50:812][  0]LogSlate: Took 0.018901 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.24-15.42.50:947][  0]LogRenderer: Reallocating scene render targets to support 1028x432 Format 10 NumSamples 1 (Frame:1).
+[2020.04.24-15.42.51:221][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.04.24-15.42.51:221][  0]LogLoad: (Engine Initialization) Total time: 141.00 seconds
+[2020.04.24-15.42.51:221][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.24-15.42.51:279][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.24-15.42.51:453][  0]LogSlate: Took 0.025924 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.24-15.42.51:511][  1]LogAssetRegistry: Asset discovery search completed in 81.9911 seconds
+[2020.04.24-15.42.51:518][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000016 seconds (updated 0 objects)
+[2020.04.24-15.42.53:191][138]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 292
+[2020.04.24-15.42.53:442][166]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 282
+[2020.04.24-15.42.53:841][208]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 272
+[2020.04.24-15.42.53:878][212]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 262
+[2020.04.24-15.42.56:503][515]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 252
+[2020.04.24-15.42.56:732][535]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 242
+[2020.04.24-15.42.56:757][538]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 232
+[2020.04.24-15.42.57:343][602]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 222
+[2020.04.24-15.43.00:274][932]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 212
+[2020.04.24-15.43.00:390][944]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 202
+[2020.04.24-15.43.00:570][965]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 192
+[2020.04.24-15.43.00:704][981]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 182
+[2020.04.24-15.43.03:037][257]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 172
+[2020.04.24-15.43.03:356][295]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 162
+[2020.04.24-15.43.03:533][316]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 152
+[2020.04.24-15.43.03:663][329]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 142
+[2020.04.24-15.43.06:988][713]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 132
+[2020.04.24-15.43.07:027][717]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 122
+[2020.04.24-15.43.07:381][759]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 112
+[2020.04.24-15.43.07:508][774]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 102
+[2020.04.24-15.43.10:118][ 78]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 92
+[2020.04.24-15.43.10:973][176]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 82
+[2020.04.24-15.43.11:289][211]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 72
+[2020.04.24-15.43.11:542][239]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 62
+[2020.04.24-15.43.13:999][501]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 52
+[2020.04.24-15.43.14:796][590]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 42
+[2020.04.24-15.43.15:492][671]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2020.04.24-15.43.15:961][726]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2020.04.24-15.43.17:402][897]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.04.24-15.43.17:993][966]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.04.24-15.43.18:071][973]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.04.24-15.43.18:953][ 76]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.24-15.43.19:045][ 87]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.04.24-15.43.19:160][100]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.04.24-15.43.19:425][131]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.24-15.44.11:314][227]LogSlate: Window 'Source Control Login' being destroyed
+[2020.04.24-15.44.28:655][210]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.24-15.44.30:442][210]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.04.24-15.44.34:252][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CommitTest/Test" FILE="C:/Users/Raven/Documents/GitHub/U51-TW_New/Content/CommitTest/Test.uasset" SILENT=true
+[2020.04.24-15.44.34:293][635]LogSavePackage: Moving 'C:/Users/Raven/Documents/GitHub/U51-TW_New/Saved/Test5E39240C46EF53D69B23A09FB367F08E.tmp' to 'C:/Users/Raven/Documents/GitHub/U51-TW_New/Content/CommitTest/Test.uasset'
+[2020.04.24-15.44.34:449][635]AssetCheck: New page: Asset Save: Test
+[2020.04.24-15.44.34:449][635]LogContentValidation: Display: Validating Blueprint /Game/CommitTest/Test.Test
+[2020.04.24-15.44.37:038][925]SourceControl: fatal: F:/UE4Engine/UE_4.24/Engine/Content: 'F:/UE4Engine/UE_4.24/Engine/Content' is outside repository at 'C:/Users/Raven/Documents/GitHub/U51-TW_New'
+[2020.04.24-15.44.37:132][925]LogPackageName: Error: Illegal call to DoesPackageExist: 'C:/Users/Raven/Documents/GitHub/U51-TW_New/U51TW.uproject' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.04.24-15.44.37:140][925]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.24-15.44.38:943][925]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.803 s
+[2020.04.24-15.44.38:943][925]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.24-15.44.38:943][925]LogOutputDevice: Error: 
+[2020.04.24-15.44.38:943][925]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/PackageName.cpp] [Line: 873]
+[2020.04.24-15.44.38:943][925]LogOutputDevice: Error: Illegal call to DoesPackageExist: 'C:/Users/Raven/Documents/GitHub/U51-TW_New/U51TW.uproject' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.04.24-15.44.38:943][925]LogOutputDevice: Error: Stack: 
+[2020.04.24-15.44.38:943][925]LogOutputDevice: Error: [Callstack] 0x00007ffb4d5e80b7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.24-15.44.38:943][925]LogOutputDevice: Error: [Callstack] 0x00007ffb4d233bc1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.24-15.44.38:943][925]LogOutputDevice: Error: [Callstack] 0x00007ffb4a0f6365 UE4Editor-SourceControl.dll!UnknownFunction []
+[2020.04.24-15.44.38:943][925]LogOutputDevice: Error: [Callstack] 0x00007ffb4a0f64bc UE4Editor-SourceControl.dll!UnknownFunction []
+[2020.04.24-15.44.38:943][925]LogOutputDevice: Error: [Callstack] 0x00007ffb2de504f5 UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2020.04.24-15.44.38:943][925]LogOutputDevice: Error: [Callstack] 0x00007ffb2de08e4d UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2020.04.24-15.44.38:943][925]LogOutputDevice: Error: [Callstack] 0x00007ffb2de0869a UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2020.04.24-15.44.38:943][925]LogOutputDevice: Error: [Callstack] 0x00007ffb2de20da6 UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2020.04.24-15.44.38:943][925]LogOutputDevice: Error: [Callstack] 0x00007ffb211bb4e3 UE4Editor-GitSourceControl.dll!UnknownFunction []
+[2020.04.24-15.44.38:943][925]LogOutputDevice: Error: [Callstack] 0x00007ffb211bfe31 UE4Editor-GitSourceControl.dll!UnknownFunction []
+[2020.04.24-15.44.38:943][925]LogOutputDevice: Error: [Callstack] 0x00007ffb4a0fade9 UE4Editor-SourceControl.dll!UnknownFunction []
+[2020.04.24-15.44.38:943][925]LogOutputDevice: Error: [Callstack] 0x00007ffb33acb479 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.24-15.44.38:943][925]LogOutputDevice: Error: [Callstack] 0x00007ffb3432e476 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.24-15.44.38:943][925]LogOutputDevice: Error: [Callstack] 0x00007ff739937f62 UE4Editor.exe!UnknownFunction []
+[2020.04.24-15.44.38:943][925]LogOutputDevice: Error: [Callstack] 0x00007ff73994c3ec UE4Editor.exe!UnknownFunction []
+[2020.04.24-15.44.38:943][925]LogOutputDevice: Error: [Callstack] 0x00007ff73994c4ca UE4Editor.exe!UnknownFunction []
+[2020.04.24-15.44.38:943][925]LogOutputDevice: Error: [Callstack] 0x00007ff73995ceae UE4Editor.exe!UnknownFunction []
+[2020.04.24-15.44.38:943][925]LogOutputDevice: Error: [Callstack] 0x00007ff73995fcbe UE4Editor.exe!UnknownFunction []
+[2020.04.24-15.44.38:943][925]LogOutputDevice: Error: [Callstack] 0x00007ffb93d97bd4 KERNEL32.DLL!UnknownFunction []
+[2020.04.24-15.44.38:943][925]LogOutputDevice: Error: [Callstack] 0x00007ffb953cce51 ntdll.dll!UnknownFunction []
+[2020.04.24-15.44.38:943][925]LogOutputDevice: Error: 
+[2020.04.24-15.44.39:003][925]LogStats:                SubmitErrorReport -  0.000 s
