@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.24",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
+		},
+		{
+			"Name": "MSSQL",
+			"Enabled": true,
+			"MarketplaceURL": "https://www.unrealengine.com/marketplace/ms-sql-integration"
+		}
+	]
+}

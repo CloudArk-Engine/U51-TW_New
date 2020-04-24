@@ -1,0 +1,1127 @@
+﻿Log file open, 04/08/20 17:51:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: U51TS
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.124361
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MSSQL
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1607) (), CPU: Intel(R) Core(TM) i7-4510U CPU @ 2.00GHz, GPU: Intel(R) HD Graphics Family
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.08-16.51.17:242][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.08-16.51.17:242][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.08-16.51.17:242][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Project/U51TS 4.24/Saved/Config/Windows/Engine.ini]
+[2020.04.08-16.51.17:242][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.08-16.51.17:242][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Project/U51TS 4.24/Saved/Config/Windows/Engine.ini]
+[2020.04.08-16.51.17:242][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Project/U51TS 4.24/Saved/Config/Windows/Engine.ini]
+[2020.04.08-16.51.17:242][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.08-16.51.17:242][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.08-16.51.17:242][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.08-16.51.17:242][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.08-16.51.17:242][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.08-16.51.17:242][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.08-16.51.17:242][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.08-16.51.17:242][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.08-16.51.17:242][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.08-16.51.17:242][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.08-16.51.17:242][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.08-16.51.17:242][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.08-16.51.17:242][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.08-16.51.17:242][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.04.08-16.51.17:242][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Project/U51TS 4.24/Saved/Config/Windows/Engine.ini]
+[2020.04.08-16.51.17:242][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.08-16.51.17:242][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.08-16.51.17:242][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.08-16.51.17:242][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.08-16.51.17:242][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.08-16.51.17:242][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.08-16.51.17:242][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.04.08-16.51.17:242][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.08-16.51.17:242][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.08-16.51.17:242][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.08-16.51.17:242][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.08-16.51.17:242][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.08-16.51.17:242][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.08-16.51.17:242][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Project/U51TS 4.24/Saved/Config/Windows/Engine.ini]
+[2020.04.08-16.51.17:242][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Project/U51TS 4.24/Saved/Config/Windows/Engine.ini]
+[2020.04.08-16.51.17:248][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Project/U51TS 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-16.51.17:248][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.08-16.51.17:248][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.08-16.51.17:248][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Project/U51TS 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-16.51.17:248][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.08-16.51.17:248][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Project/U51TS 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-16.51.17:248][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.08-16.51.17:248][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.08-16.51.17:248][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.08-16.51.17:248][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.08-16.51.17:248][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.08-16.51.17:248][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.08-16.51.17:248][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.08-16.51.17:248][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.08-16.51.17:248][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.08-16.51.17:248][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.08-16.51.17:248][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.08-16.51.17:248][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.08-16.51.17:248][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.08-16.51.17:248][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.08-16.51.17:248][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.08-16.51.17:248][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.08-16.51.17:248][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Project/U51TS 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Project/U51TS 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Project/U51TS 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Project/U51TS 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.08-16.51.17:249][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Project/U51TS 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-16.51.17:250][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.08-16.51.17:250][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.08-16.51.17:250][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.08-16.51.17:250][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.08-16.51.17:250][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.08-16.51.17:252][  0]LogHAL: Display: Platform has ~ 8 GB [8476975104 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.08-16.51.17:252][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.08-16.51.17:252][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Project/U51TS 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-16.51.17:252][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.08-16.51.17:252][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Project/U51TS 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Project/U51TS 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Project/U51TS 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Project/U51TS 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Project/U51TS 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.08-16.51.17:253][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.08-16.51.17:254][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.08-16.51.17:254][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.08-16.51.17:254][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.08-16.51.17:254][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.08-16.51.17:254][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.08-16.51.17:254][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.08-16.51.17:254][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.08-16.51.17:254][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.08-16.51.17:254][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.08-16.51.17:254][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.08-16.51.17:254][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.08-16.51.17:254][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.08-16.51.17:254][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.08-16.51.17:254][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.08-16.51.17:254][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Project/U51TS 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-16.51.17:254][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.08-16.51.17:254][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.08-16.51.17:254][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Project/U51TS 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-16.51.17:254][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.08-16.51.17:254][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.08-16.51.17:254][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.08-16.51.17:254][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.08-16.51.17:254][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.08-16.51.17:254][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.08-16.51.17:254][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Project/U51TS 4.24/Saved/Config/Windows/Engine.ini]
+[2020.04.08-16.51.17:254][  0]LogInit: Computer: TF-ADM-1-CM
+[2020.04.08-16.51.17:254][  0]LogInit: User: carlosmora
+[2020.04.08-16.51.17:254][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.04.08-16.51.17:254][  0]LogInit: High frequency timer resolution =2.533200 MHz
+[2020.04.08-16.51.17:254][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.04.08-16.51.17:254][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.08-16.51.17:254][  0]LogMemory: Process Physical Memory: 104.12 MB used, 104.12 MB peak
+[2020.04.08-16.51.17:254][  0]LogMemory: Process Virtual Memory: 99.59 MB used, 99.59 MB peak
+[2020.04.08-16.51.17:254][  0]LogMemory: Physical Memory: 6239.31 MB used,  1844.96 MB free, 8084.27 MB total
+[2020.04.08-16.51.17:254][  0]LogMemory: Virtual Memory: 999.11 MB used,  134216728.00 MB free, 134217728.00 MB total
+[2020.04.08-16.51.17:258][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.08-16.51.17:277][  0]LogInit: Using OS detected language (en-US).
+[2020.04.08-16.51.17:277][  0]LogInit: Using OS detected locale (pt-PT).
+[2020.04.08-16.51.17:278][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.08-16.51.17:509][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.08-16.51.17:611][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.08-16.51.17:611][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.08-16.51.21:099][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.08-16.51.21:099][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.04.08-16.51.21:099][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.04.08-16.51.21:099][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.08-16.51.21:141][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 840M' (Feature Level 11_0)
+[2020.04.08-16.51.21:141][  0]LogD3D11RHI:       4065/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.04.08-16.51.21:149][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics Family' (Feature Level 11_0)
+[2020.04.08-16.51.21:149][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.04.08-16.51.21:151][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.08-16.51.21:151][  0]LogD3D11RHI:       0/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.08-16.51.21:151][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.08-16.51.21:160][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.08-16.51.21:160][  0]LogD3D11RHI:     GPU DeviceId: 0x1341 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.08-16.51.21:160][  0]LogWindows: EnumDisplayDevices:
+[2020.04.08-16.51.21:160][  0]LogWindows:    0. 'Intel(R) HD Graphics Family' (P:1 D:1)
+[2020.04.08-16.51.21:160][  0]LogWindows:    1. 'Intel(R) HD Graphics Family' (P:0 D:1)
+[2020.04.08-16.51.21:161][  0]LogWindows:    2. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2020.04.08-16.51.21:161][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.04.08-16.51.21:161][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 840M
+[2020.04.08-16.51.21:161][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.04.08-16.51.21:161][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.04.08-16.51.21:161][  0]LogRHI: Texture pool is 2846 MB (70% of 4065 MB)
+[2020.04.08-16.51.21:181][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.04.08-16.51.21:181][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.08-16.51.21:202][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.04.08-16.51.21:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.04.08-16.51.21:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.04.08-16.51.21:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.04.08-16.51.21:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.04.08-16.51.21:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.04.08-16.51.21:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.04.08-16.51.21:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.04.08-16.51.21:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.04.08-16.51.21:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.04.08-16.51.21:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.04.08-16.51.21:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.08-16.51.21:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.04.08-16.51.21:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.04.08-16.51.21:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.08-16.51.21:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.08-16.51.21:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.08-16.51.21:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.08-16.51.21:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.04.08-16.51.21:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.04.08-16.51.21:685][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.04.08-16.51.21:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.04.08-16.51.21:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.08-16.51.21:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.04.08-16.51.21:714][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.04.08-16.51.21:723][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.04.08-16.51.21:732][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.04.08-16.51.21:741][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.04.08-16.51.21:778][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.04.08-16.51.21:778][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.04.08-16.51.21:796][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.04.08-16.51.21:796][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.04.08-16.51.21:805][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.08-16.51.21:815][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.04.08-16.51.21:824][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.04.08-16.51.21:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.04.08-16.51.21:833][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.08-16.51.21:836][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.08-16.51.21:858][  0]LogShaderCompilers: Guid format shader working directory is 32 characters bigger than the processId version (../../../../../Project/U51TS 4.24/Intermediate/Shaders/WorkingDirectory/17068/).
+[2020.04.08-16.51.21:858][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/carlos.mora.TECHFRAMECORP/AppData/Local/Temp/UnrealShaderWorkingDir/AEB834724FDBE16DCEF6E88ED300B006/'.
+[2020.04.08-16.51.21:858][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.08-16.51.21:858][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.08-16.51.21:858][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.08-16.51.26:020][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.08-16.51.26:417][  0]LogDerivedDataCache: Loaded boot cache 0.40s 78MB C:/Users/carlos.mora.TECHFRAMECORP/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.08-16.51.26:418][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/carlos.mora.TECHFRAMECORP/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.04.08-16.51.26:418][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Project/U51TS 4.24/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.08-16.51.26:418][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.08-16.51.26:418][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Project/U51TS 4.24/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.08-16.51.26:418][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.08-16.51.26:432][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.08-16.51.26:432][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.08-16.51.26:432][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.08-16.51.26:433][  0]LogDerivedDataCache: Using Local data cache path C:/Users/carlos.mora.TECHFRAMECORP/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.08-16.51.26:433][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.08-16.51.26:434][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.08-16.51.26:467][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.08-16.51.26:470][  0]LogSlate: Using FreeType 2.10.0
+[2020.04.08-16.51.26:495][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.08-16.51.26:559][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2020.04.08-16.51.27:036][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.08-16.51.27:339][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.08-16.51.27:339][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.08-16.51.27:339][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.08-16.51.27:339][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.08-16.51.27:339][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.08-16.51.27:360][  0]LogNetVersion: U51TS 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3112830480)
+[2020.04.08-16.51.27:431][  0]LogInput: Warning: Action Jump uses deprecated key MotionController_Left_Trigger.
+[2020.04.08-16.51.27:432][  0]LogInput: Warning: Action ResetVR uses deprecated key MotionController_Left_Grip1.
+[2020.04.08-16.51.27:432][  0]LogInput: Warning: Action Jump uses deprecated key MotionController_Right_Trigger.
+[2020.04.08-16.51.27:432][  0]LogInput: Warning: Axis MoveForward uses deprecated key MotionController_Left_Thumbstick_Y.
+[2020.04.08-16.51.27:432][  0]LogInput: Warning: Axis MoveRight uses deprecated key MotionController_Left_Thumbstick_X.
+[2020.04.08-16.51.27:432][  0]LogInput: Warning: Axis TurnRate uses deprecated key MotionController_Right_Thumbstick_X.
+[2020.04.08-16.51.29:588][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.079066 seconds
+[2020.04.08-16.51.29:612][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.04.08-16.51.29:612][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.04.08-16.51.29:612][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.08-16.51.30:229][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.08-16.51.30:232][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.08-16.51.30:302][  0]SourceControl: Source control is disabled
+[2020.04.08-16.51.30:302][  0]SourceControl: Source control is disabled
+[2020.04.08-16.51.30:303][  0]SourceControl: Source control is disabled
+[2020.04.08-16.51.30:304][  0]SourceControl: Source control is disabled
+[2020.04.08-16.51.30:304][  0]SourceControl: Source control is disabled
+[2020.04.08-16.51.30:398][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.08-16.51.30:412][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.08-16.51.30:412][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.08-16.51.30:533][  0]LogOcInput: OculusInput pre-init called
+[2020.04.08-16.51.30:543][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.08-16.51.30:543][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.08-16.51.30:638][  0]LogEngine: Initializing Engine...
+[2020.04.08-16.51.30:639][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.08-16.51.30:640][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.08-16.51.31:115][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.08-16.51.31:126][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.08-16.51.31:153][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.08-16.51.31:153][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.08-16.51.31:153][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.08-16.51.31:153][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.08-16.51.31:153][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.08-16.51.31:153][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.08-16.51.31:153][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.08-16.51.31:153][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.08-16.51.31:154][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.08-16.51.31:154][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.08-16.51.31:164][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.08-16.51.31:164][  0]LogAudioMixer: Display: Name: Speakers (Conexant SmartAudio HD)
+[2020.04.08-16.51.31:164][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.04.08-16.51.31:165][  0]LogAudioMixer: Display: Sample Rate: 192000
+[2020.04.08-16.51.31:165][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.08-16.51.31:165][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.08-16.51.31:165][  0]LogAudioMixer: Display: Channel Order:
+[2020.04.08-16.51.31:165][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.08-16.51.31:165][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.04.08-16.51.31:184][  0]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2020.04.08-16.51.31:193][  0]LogInit: FAudioDevice initialized.
+[2020.04.08-16.51.31:193][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.08-16.51.31:460][  0]LogDerivedDataCache: Saved boot cache 0.27s 78MB C:/Users/carlos.mora.TECHFRAMECORP/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.08-16.51.31:468][  0]LogInit: Texture streaming: Enabled
+[2020.04.08-16.51.31:481][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.08-16.51.31:481][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.08-16.51.31:484][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.08-16.51.31:569][  0]LogInit: Transaction tracking system initialized
+[2020.04.08-16.51.31:582][  0]BlueprintLog: New page: Editor Load
+[2020.04.08-16.51.31:614][  0]LocalizationService: Localization service is disabled
+[2020.04.08-16.51.32:350][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.08-16.51.32:350][  0]LogFileCache: Scanning file cache for directory 'E:/Project/U51TS 4.24/Content/' took 0.01s
+[2020.04.08-16.51.32:350][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.08-16.51.35:717][  0]SourceControl: Source control is disabled
+[2020.04.08-16.51.35:717][  0]Cmd: MAP LOAD FILE="../../../../../Project/U51TS 4.24/Content/Game/U51TS_StationMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.08-16.51.35:718][  0]LightingResults: New page: Lighting Build
+[2020.04.08-16.51.35:719][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.08-16.51.35:719][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.08-16.51.35:719][  0]MapCheck: New page: Map Check
+[2020.04.08-16.51.35:719][  0]LightingResults: New page: Lighting Build
+[2020.04.08-16.51.35:766][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.04.08-16.51.43:114][  0]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find inherited parent component 'DefaultSceneRoot' for 'TS_Floor_K_EscapePods__-5_' in BlueprintGeneratedClass 'BP_Floor_K_C' (it may have been removed)
+[2020.04.08-16.51.43:300][  0]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find inherited parent component 'DefaultSceneRoot' for 'TS_Floor_J_EnergyProduction__-4_' in BlueprintGeneratedClass 'BP_Floor_J_C' (it may have been removed)
+[2020.04.08-16.51.43:389][  0]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find inherited parent component 'DefaultSceneRoot' for 'TS_Floor_H_EnergyControl__-2_' in BlueprintGeneratedClass 'BP_Floor_H_C' (it may have been removed)
+[2020.04.08-16.51.43:589][  0]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find inherited parent component 'DefaultSceneRoot' for 'TS_Floor_I_EscapePods__-3_' in BlueprintGeneratedClass 'BP_Floor_I_C' (it may have been removed)
+[2020.04.08-16.51.45:853][  0]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find inherited parent component 'DefaultSceneRoot' for 'TS_Floor_E_Armory__1_' in BlueprintGeneratedClass 'BP_Floor_E_C' (it may have been removed)
+[2020.04.08-16.51.45:853][  0]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find inherited parent component 'DefaultSceneRoot' for 'TS_Floor_E_Rooms__1_' in BlueprintGeneratedClass 'BP_Floor_E_C' (it may have been removed)
+[2020.04.08-16.51.45:854][  0]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find inherited parent component 'DefaultSceneRoot' for 'TS_Floor_D_Command__2_' in BlueprintGeneratedClass 'BP_Floor_D_C' (it may have been removed)
+[2020.04.08-16.51.46:113][  0]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find inherited parent component 'DefaultSceneRoot' for 'TS_Floor_C_EVA__3_' in BlueprintGeneratedClass 'BP_Floor_C_C' (it may have been removed)
+[2020.04.08-16.51.46:113][  0]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find inherited parent component 'DefaultSceneRoot' for 'TS_Floor_C_Labs__3_' in BlueprintGeneratedClass 'BP_Floor_C_C' (it may have been removed)
+[2020.04.08-16.51.46:201][  0]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find inherited parent component 'DefaultSceneRoot' for 'TS_Floor_B_Comms__4_' in BlueprintGeneratedClass 'BP_Floor_B_C' (it may have been removed)
+[2020.04.08-16.51.50:430][  0]LogAIModule: Creating AISystem for world U51TS_StationMap
+[2020.04.08-16.51.50:989][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.08-16.51.51:102][  0]LogUObjectHash: Compacting FUObjectHashTables data took  12.47ms
+[2020.04.08-16.51.51:103][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.08-16.51.51:103][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,198ms to complete.
+[2020.04.08-16.51.51:103][  0]LogFileHelpers: Loading map 'U51TS_StationMap' took 15.386
+[2020.04.08-16.51.51:198][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.08-16.51.51:300][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-16.51.51:309][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-16.51.51:318][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-16.51.51:326][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-16.51.51:337][  0]LogCollectionManager: Loaded 0 collections in 0.000977 seconds
+[2020.04.08-16.51.51:353][  0]LogFileCache: Scanning file cache for directory 'E:/Project/U51TS 4.24/Saved/Collections/' took 0.00s
+[2020.04.08-16.51.51:353][  0]LogFileCache: Scanning file cache for directory 'E:/Project/U51TS 4.24/Content/Developers/carlosmora/Collections/' took 0.00s
+[2020.04.08-16.51.51:353][  0]LogFileCache: Scanning file cache for directory 'E:/Project/U51TS 4.24/Content/Collections/' took 0.00s
+[2020.04.08-16.51.51:353][  0]LogContentBrowser: Native class hierarchy populated in 0.0106 seconds. Added 3025 classes and 725 folders.
+[2020.04.08-16.51.51:356][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.08-16.51.51:552][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.08-16.51.51:556][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.04.08-16.51.51:606][  0]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.08-16.51.51:609][  0]LogSlate: Took 0.000289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.08-16.51.51:639][  0]LogSlate: Took 0.016876 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.08-16.51.51:870][  0]LogRenderer: Reallocating scene render targets to support 964x464 Format 10 NumSamples 1 (Frame:1).
+[2020.04.08-16.51.52:154][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.04.08-16.51.52:154][  0]LogLoad: (Engine Initialization) Total time: 36.45 seconds
+[2020.04.08-16.51.52:154][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.08-16.51.52:264][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.08-16.51.52:299][  0]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.08-16.51.55:503][ 23]LogAssetRegistry: Asset discovery search completed in 28.9446 seconds
+[2020.04.08-16.51.55:512][ 23]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000017 seconds (updated 0 objects)
+[2020.04.08-16.51.56:279][ 51]LogRenderer: Reallocating scene render targets to support 964x572 Format 10 NumSamples 1 (Frame:7).
+[2020.04.08-16.52.03:773][418]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.08-16.52.03:819][418]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_U51TSCharacter.BP_U51TSCharacter
+[2020.04.08-16.52.04:149][418]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2020.04.08-16.52.05:412][418]LogSlate: Took 0.007386 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.08-16.52.05:721][419]LogSlate: Took 0.009596 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.08-17.01.52:725][501]LogUObjectHash: Compacting FUObjectHashTables data took   7.27ms
+[2020.04.08-17.01.52:731][501]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Game/U51TS_StationMap' took 0.076
+[2020.04.08-17.01.52:732][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_U51TSCharacter] ([1] browsable assets)...
+[2020.04.08-17.01.52:810][501]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_U51TSCharacter.BP_U51TSCharacter]
+[2020.04.08-17.01.52:810][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_U51TSCharacter]
+[2020.04.08-17.01.52:988][501]LogSavePackage: Moving '../../../../../Project/U51TS 4.24/Saved/BP_U51TSCharacter_Auto1D863BC2E4FC5744DBE35699D7AF95623.tmp' to '../../../../../Project/U51TS 4.24/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_U51TSCharacter_Auto1.uasset'
+[2020.04.08-17.01.52:991][501]LogFileHelpers: Auto-saving content packages took 0.259
+[2020.04.08-17.04.51:801][ 33]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.08-17.04.55:020][ 87]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.04.08-17.07.48:834][699]LogRenderer: Reallocating scene render targets to support 1012x572 Format 10 NumSamples 1 (Frame:11).
+[2020.04.08-17.08.01:158][115]LogSlate: Window 'BP_U51TSCharacter' being destroyed
+[2020.04.08-17.08.01:167][115]LogSlate: Window 'BP_U51TSCharacter' being destroyed
+[2020.04.08-17.08.01:169][115]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.04.08-17.08.01:169][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.08-17.08.08:863][251]LogTexture: Display: Building textures: UE4_Mannequin_occlusion_Mobile (DXT1, 512X512)
+[2020.04.08-17.08.08:863][251]LogTexture: Display: Building textures: T_ML_Aluminum01 (DXT1, 512X512)
+[2020.04.08-17.08.08:863][251]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_D (DXT1, 512X512)
+[2020.04.08-17.08.09:795][251]LogTexture: Display: Building textures: UE4_Mannequin_MAT_MASKA (AutoDXT, 1024X1024)
+[2020.04.08-17.08.09:795][251]LogTexture: Display: Building textures: UE4_Mannequin__normals (BC5, 2048X2048)
+[2020.04.08-17.08.09:795][251]LogTexture: Display: Building textures: T_ML_Aluminum01_N (BC5, 512X512)
+[2020.04.08-17.08.09:795][251]LogTexture: Display: Building textures: UE4Man_Logo_N (BC5, 512X512)
+[2020.04.08-17.08.09:795][251]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_N (BC5, 512X512)
+[2020.04.08-17.08.09:795][251]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.04.08-17.08.09:933][251]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 98
+[2020.04.08-17.08.09:933][251]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 88
+[2020.04.08-17.08.09:933][251]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 78
+[2020.04.08-17.08.09:933][251]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.04.08-17.08.10:009][251]LogSkeletalMesh: Building Skeletal Mesh UE4_Mannequin...
+[2020.04.08-17.08.10:135][251]LogSkeletalMesh: Built Skeletal Mesh [0.14s] /Game/ThirdPerson/Mesh/UE4_Mannequin.UE4_Mannequin
+[2020.04.08-17.08.14:371][369]LogUObjectHash: Compacting FUObjectHashTables data took  10.11ms
+[2020.04.08-17.08.17:275][369]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 166
+[2020.04.08-17.08.18:480][369]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 156
+[2020.04.08-17.08.19:979][369]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.08-17.08.20:297][369]LogUObjectHash: Compacting FUObjectHashTables data took   6.40ms
+[2020.04.08-17.08.20:400][369]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2020.04.08-17.08.20:451][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.04.08-17.08.24:079][465]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint
+[2020.04.08-17.08.24:103][465]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2020.04.08-17.08.24:528][465]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.08-17.08.24:531][465]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0006 seconds. Added 1 classes and 0 folders.
+[2020.04.08-17.08.25:895][465]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.08-17.08.26:254][465]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 146
+[2020.04.08-17.08.27:311][465]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 136
+[2020.04.08-17.08.28:019][468]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 126
+[2020.04.08-17.08.41:148][878]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 116
+[2020.04.08-17.08.45:617][ 42]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 106
+[2020.04.08-17.08.49:233][172]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 96
+[2020.04.08-17.08.57:900][364]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 86
+[2020.04.08-17.08.57:923][365]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 76
+[2020.04.08-17.08.58:088][368]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 66
+[2020.04.08-17.09.06:587][489]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 56
+[2020.04.08-17.09.06:779][489]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 46
+[2020.04.08-17.09.13:657][671]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 36
+[2020.04.08-17.09.20:344][894]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2020.04.08-17.09.28:722][194]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2020.04.08-17.09.31:469][274]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2020.04.08-17.09.32:833][311]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.04.08-17.09.39:840][527]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2020.04.08-17.09.40:756][536]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.04.08-17.09.41:638][543]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.04.08-17.17.31:104][399]BlueprintLog: New page: Compile BP_U51TSCharacterAnimBlueprint
+[2020.04.08-17.17.31:666][399]LogUObjectHash: Compacting FUObjectHashTables data took   7.95ms
+[2020.04.08-17.17.35:528][544]LogSavePackage: Moving '../../../../../Project/U51TS 4.24/Saved/BP_U51TSCharacterAnimBlueprint9E5356E340E62BA8C0319BB9CEDFF64C.tmp' to '../../../../../Project/U51TS 4.24/Content/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.uasset'
+[2020.04.08-17.17.35:558][544]AssetCheck: New page: Asset Save: BP_U51TSCharacterAnimBlueprint
+[2020.04.08-17.17.35:558][544]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint
+[2020.04.08-17.17.43:918][848]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.08-17.17.43:943][848]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Game/U51TS_StationMap.U51TS_StationMap:PersistentLevel' has LevelScriptBlueprint '/Game/Game/U51TS_StationMap.U51TS_StationMap:PersistentLevel.U51TS_StationMap' with GeneratedClass '/Game/Game/U51TS_StationMap.U51TS_StationMap_C' with ClassGeneratedBy '/Game/Game/U51TS_StationMap.U51TS_StationMap:PersistentLevel.U51TS_StationMap'
+[2020.04.08-17.17.43:943][848]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.08-17.17.43:974][848]LogPlayLevel: [PlayLevel] Compiling BP_U51TSCharacter before play...
+[2020.04.08-17.17.44:437][848]LogUObjectHash: Compacting FUObjectHashTables data took   7.31ms
+[2020.04.08-17.17.44:439][848]LogPlayLevel: PlayLevel: Blueprint regeneration took 496 ms (1 blueprints)
+[2020.04.08-17.17.44:445][848]PIE: New page: PIE session: U51TS_StationMap (08/04/2020, 19:17:44)
+[2020.04.08-17.17.44:447][848]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.04.08-17.17.44:448][848]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.04.08-17.17.44:449][848]LogPlayLevel: Creating play world package: /Game/Game/UEDPIE_0_U51TS_StationMap
+[2020.04.08-17.17.44:501][848]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052692s)
+[2020.04.08-17.17.44:504][848]LogAIModule: Creating AISystem for world U51TS_StationMap
+[2020.04.08-17.17.44:504][848]LogPlayLevel: PIE: World Init took: (0.002798s)
+[2020.04.08-17.17.44:504][848]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/U51TS_StationMap.U51TS_StationMap to /Game/Game/UEDPIE_0_U51TS_StationMap.U51TS_StationMap (0.055870s)
+[2020.04.08-17.17.44:566][848]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2020.04.08-17.17.44:567][848]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.08-17.17.44:567][848]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.08-17.17.44:567][848]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.08-17.17.44:567][848]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.08-17.17.44:567][848]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.08-17.17.44:567][848]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.08-17.17.44:567][848]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.08-17.17.44:567][848]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.08-17.17.44:568][848]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.08-17.17.44:568][848]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.08-17.17.44:572][848]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.08-17.17.44:572][848]LogAudioMixer: Display: Name: Speakers (Conexant SmartAudio HD)
+[2020.04.08-17.17.44:572][848]LogAudioMixer: Display: Is Default: Yes
+[2020.04.08-17.17.44:572][848]LogAudioMixer: Display: Sample Rate: 192000
+[2020.04.08-17.17.44:572][848]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.08-17.17.44:572][848]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.08-17.17.44:572][848]LogAudioMixer: Display: Channel Order:
+[2020.04.08-17.17.44:573][848]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.08-17.17.44:573][848]LogAudioMixer: Display: 1: FrontRight
+[2020.04.08-17.17.44:589][848]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2020.04.08-17.17.44:591][848]LogInit: FAudioDevice initialized.
+[2020.04.08-17.17.44:647][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-17.17.44:651][848]LogLoad: Game class is 'U51TSGameMode_C'
+[2020.04.08-17.17.44:684][848]LogWorld: Bringing World /Game/Game/UEDPIE_0_U51TS_StationMap.U51TS_StationMap up for play (max tick rate 60) at 2020.04.08-18.17.44
+[2020.04.08-17.17.44:685][848]LogWorld: Bringing up level for play took: 0.032783
+[2020.04.08-17.17.44:685][848]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.04.08-17.17.44:697][848]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2020.04.08-17.17.45:219][848]PIE: Play in editor start time for /Game/Game/UEDPIE_0_U51TS_StationMap 0,284
+[2020.04.08-17.17.45:220][848]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Game/U51TS_StationMap.U51TS_StationMap:PersistentLevel' has LevelScriptBlueprint '/Game/Game/U51TS_StationMap.U51TS_StationMap:PersistentLevel.U51TS_StationMap' with GeneratedClass '/Game/Game/U51TS_StationMap.U51TS_StationMap_C' with ClassGeneratedBy '/Game/Game/U51TS_StationMap.U51TS_StationMap:PersistentLevel.U51TS_StationMap'
+[2020.04.08-17.17.45:520][849]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2020.04.08-17.17.51:166][968]LogBlueprintUserMessages: [BP_Elevator_1] G
+[2020.04.08-17.17.51:166][968]LogBlueprintUserMessages: [BP_Elevator_1] G
+[2020.04.08-17.17.51:166][968]LogBlueprintUserMessages: [BP_Elevator_1] G
+[2020.04.08-17.17.51:166][968]LogBlueprintUserMessages: [BP_Elevator_2] G
+[2020.04.08-17.17.51:166][968]LogBlueprintUserMessages: [BP_Elevator_3] G
+[2020.04.08-17.17.51:166][968]LogBlueprintUserMessages: [U51TS_StationMap_C_1] 5555555
+[2020.04.08-17.17.56:187][116]LogBlueprintUserMessages: [U51TS_StationMap_C_1] 5555555
+[2020.04.08-17.18.01:202][263]LogBlueprintUserMessages: [U51TS_StationMap_C_1] 5555555
+[2020.04.08-17.18.06:235][414]LogBlueprintUserMessages: [U51TS_StationMap_C_1] 5555555
+[2020.04.08-17.18.11:253][565]LogBlueprintUserMessages: [U51TS_StationMap_C_1] 5555555
+[2020.04.08-17.18.12:837][611]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.08-17.18.12:837][611]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.08-17.18.12:838][611]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Game/U51TS_StationMap.U51TS_StationMap:PersistentLevel' has LevelScriptBlueprint '/Game/Game/U51TS_StationMap.U51TS_StationMap:PersistentLevel.U51TS_StationMap' with GeneratedClass '/Game/Game/U51TS_StationMap.U51TS_StationMap_C' with ClassGeneratedBy '/Game/Game/U51TS_StationMap.U51TS_StationMap:PersistentLevel.U51TS_StationMap'
+[2020.04.08-17.18.12:838][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-17.18.12:838][611]LogWorld: BeginTearingDown for /Game/Game/UEDPIE_0_U51TS_StationMap
+[2020.04.08-17.18.12:859][611]LogSlate: Window 'U51TS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.08-17.18.12:867][611]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.08-17.18.12:867][611]LogWorld: UWorld::CleanupWorld for U51TS_StationMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.08-17.18.12:872][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.08-17.18.12:885][611]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.08-17.18.12:885][611]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Game/U51TS_StationMap.U51TS_StationMap:PersistentLevel' has LevelScriptBlueprint '/Game/Game/U51TS_StationMap.U51TS_StationMap:PersistentLevel.U51TS_StationMap' with GeneratedClass '/Game/Game/U51TS_StationMap.U51TS_StationMap_C' with ClassGeneratedBy '/Game/Game/U51TS_StationMap.U51TS_StationMap:PersistentLevel.U51TS_StationMap'
+[2020.04.08-17.18.12:900][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.08-17.18.12:980][611]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.08-17.18.13:049][611]LogUObjectHash: Compacting FUObjectHashTables data took   7.82ms
+[2020.04.08-17.18.13:101][612]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.04.08-17.18.31:756][356]BlueprintLog: New page: Compile BP_U51TSCharacterAnimBlueprint
+[2020.04.08-17.18.32:179][356]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_U51TSCharacterAnimBlueprint_C_2
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:029F
+[2020.04.08-17.18.32:179][356]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_U51TSCharacterAnimBlueprint_C_2
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:032F
+[2020.04.08-17.18.32:179][356]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_U51TSCharacterAnimBlueprint_C_2
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:0361
+[2020.04.08-17.18.32:179][356]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_2
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:029F
+[2020.04.08-17.18.32:179][356]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_2
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:032F
+[2020.04.08-17.18.32:180][356]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_2
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:0361
+[2020.04.08-17.18.32:258][356]LogUObjectHash: Compacting FUObjectHashTables data took   6.72ms
+[2020.04.08-17.18.32:462][358]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_2
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:029F
+[2020.04.08-17.18.32:463][358]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_2
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:032F
+[2020.04.08-17.18.32:463][358]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_2
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:0361
+[2020.04.08-17.18.32:504][359]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_2
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:029F
+[2020.04.08-17.18.32:504][359]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_2
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:032F
+[2020.04.08-17.18.32:504][359]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_2
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:0361
+[2020.04.08-17.18.32:523][360]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_2
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:029F
+[2020.04.08-17.18.32:523][360]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_2
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:032F
+[2020.04.08-17.18.32:523][360]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_2
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:0361
+[2020.04.08-17.18.32:553][361]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_2
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:029F
+[2020.04.08-17.18.32:553][361]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_2
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:032F
+[2020.04.08-17.18.33:486][394]LogSavePackage: Moving '../../../../../Project/U51TS 4.24/Saved/BP_U51TSCharacterAnimBlueprint5FA329494C1288F60D7B9F9A1276AAFD.tmp' to '../../../../../Project/U51TS 4.24/Content/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.uasset'
+[2020.04.08-17.18.33:503][394]AssetCheck: New page: Asset Save: BP_U51TSCharacterAnimBlueprint
+[2020.04.08-17.18.33:503][394]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint
+[2020.04.08-17.18.42:334][743]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.08-17.18.42:357][743]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Game/U51TS_StationMap.U51TS_StationMap:PersistentLevel' has LevelScriptBlueprint '/Game/Game/U51TS_StationMap.U51TS_StationMap:PersistentLevel.U51TS_StationMap' with GeneratedClass '/Game/Game/U51TS_StationMap.U51TS_StationMap_C' with ClassGeneratedBy '/Game/Game/U51TS_StationMap.U51TS_StationMap:PersistentLevel.U51TS_StationMap'
+[2020.04.08-17.18.42:357][743]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.08-17.18.42:357][743]PIE: New page: PIE session: U51TS_StationMap (08/04/2020, 19:18:42)
+[2020.04.08-17.18.42:357][743]LogPlayLevel: Creating play world package: /Game/Game/UEDPIE_0_U51TS_StationMap
+[2020.04.08-17.18.42:415][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057384s)
+[2020.04.08-17.18.42:417][743]LogAIModule: Creating AISystem for world U51TS_StationMap
+[2020.04.08-17.18.42:418][743]LogPlayLevel: PIE: World Init took: (0.002898s)
+[2020.04.08-17.18.42:418][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/U51TS_StationMap.U51TS_StationMap to /Game/Game/UEDPIE_0_U51TS_StationMap.U51TS_StationMap (0.060706s)
+[2020.04.08-17.18.42:480][743]LogUObjectHash: Compacting FUObjectHashTables data took   7.05ms
+[2020.04.08-17.18.42:481][743]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.08-17.18.42:481][743]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.08-17.18.42:481][743]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.08-17.18.42:481][743]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.08-17.18.42:481][743]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.08-17.18.42:481][743]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.08-17.18.42:481][743]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.08-17.18.42:481][743]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.08-17.18.42:481][743]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.08-17.18.42:481][743]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.08-17.18.42:485][743]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.08-17.18.42:485][743]LogAudioMixer: Display: Name: Speakers (Conexant SmartAudio HD)
+[2020.04.08-17.18.42:485][743]LogAudioMixer: Display: Is Default: Yes
+[2020.04.08-17.18.42:485][743]LogAudioMixer: Display: Sample Rate: 192000
+[2020.04.08-17.18.42:485][743]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.08-17.18.42:485][743]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.08-17.18.42:485][743]LogAudioMixer: Display: Channel Order:
+[2020.04.08-17.18.42:485][743]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.08-17.18.42:485][743]LogAudioMixer: Display: 1: FrontRight
+[2020.04.08-17.18.42:500][743]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2020.04.08-17.18.42:502][743]LogInit: FAudioDevice initialized.
+[2020.04.08-17.18.42:547][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-17.18.42:548][743]LogLoad: Game class is 'U51TSGameMode_C'
+[2020.04.08-17.18.42:572][743]LogWorld: Bringing World /Game/Game/UEDPIE_0_U51TS_StationMap.U51TS_StationMap up for play (max tick rate 60) at 2020.04.08-18.18.42
+[2020.04.08-17.18.42:572][743]LogWorld: Bringing up level for play took: 0.023531
+[2020.04.08-17.18.42:573][743]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.04.08-17.18.42:593][743]PIE: Play in editor start time for /Game/Game/UEDPIE_0_U51TS_StationMap -0,342
+[2020.04.08-17.18.42:594][743]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Game/U51TS_StationMap.U51TS_StationMap:PersistentLevel' has LevelScriptBlueprint '/Game/Game/U51TS_StationMap.U51TS_StationMap:PersistentLevel.U51TS_StationMap' with GeneratedClass '/Game/Game/U51TS_StationMap.U51TS_StationMap_C' with ClassGeneratedBy '/Game/Game/U51TS_StationMap.U51TS_StationMap:PersistentLevel.U51TS_StationMap'
+[2020.04.08-17.18.47:609][873]LogBlueprintUserMessages: [BP_Elevator_1] G
+[2020.04.08-17.18.47:609][873]LogBlueprintUserMessages: [BP_Elevator_1] G
+[2020.04.08-17.18.47:609][873]LogBlueprintUserMessages: [BP_Elevator_1] G
+[2020.04.08-17.18.47:609][873]LogBlueprintUserMessages: [BP_Elevator_2] G
+[2020.04.08-17.18.47:609][873]LogBlueprintUserMessages: [BP_Elevator_3] G
+[2020.04.08-17.18.47:610][873]LogBlueprintUserMessages: [U51TS_StationMap_C_1] 5555555
+[2020.04.08-17.18.52:633][ 21]LogBlueprintUserMessages: [U51TS_StationMap_C_1] 5555555
+[2020.04.08-17.18.53:083][ 34]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.08-17.18.53:083][ 34]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.08-17.18.53:084][ 34]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Game/U51TS_StationMap.U51TS_StationMap:PersistentLevel' has LevelScriptBlueprint '/Game/Game/U51TS_StationMap.U51TS_StationMap:PersistentLevel.U51TS_StationMap' with GeneratedClass '/Game/Game/U51TS_StationMap.U51TS_StationMap_C' with ClassGeneratedBy '/Game/Game/U51TS_StationMap.U51TS_StationMap:PersistentLevel.U51TS_StationMap'
+[2020.04.08-17.18.53:084][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-17.18.53:084][ 34]LogWorld: BeginTearingDown for /Game/Game/UEDPIE_0_U51TS_StationMap
+[2020.04.08-17.18.53:109][ 34]LogSlate: Window 'U51TS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.08-17.18.53:118][ 34]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.08-17.18.53:118][ 34]LogWorld: UWorld::CleanupWorld for U51TS_StationMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.08-17.18.53:123][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.08-17.18.53:135][ 34]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.08-17.18.53:135][ 34]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Game/U51TS_StationMap.U51TS_StationMap:PersistentLevel' has LevelScriptBlueprint '/Game/Game/U51TS_StationMap.U51TS_StationMap:PersistentLevel.U51TS_StationMap' with GeneratedClass '/Game/Game/U51TS_StationMap.U51TS_StationMap_C' with ClassGeneratedBy '/Game/Game/U51TS_StationMap.U51TS_StationMap:PersistentLevel.U51TS_StationMap'
+[2020.04.08-17.18.53:144][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.08-17.18.53:207][ 34]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.08-17.18.53:223][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2020.04.08-17.18.53:267][ 35]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.04.08-17.21.42:442][ 72]BlueprintLog: New page: Compile BP_U51TSCharacterAnimBlueprint
+[2020.04.08-17.21.42:818][ 72]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_3
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:030D
+[2020.04.08-17.21.42:818][ 72]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_3
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:039D
+[2020.04.08-17.21.42:818][ 72]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_3
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:03CF
+[2020.04.08-17.21.42:818][ 72]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_U51TSCharacterAnimBlueprint_C_3
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:030D
+[2020.04.08-17.21.42:818][ 72]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_U51TSCharacterAnimBlueprint_C_3
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:039D
+[2020.04.08-17.21.42:818][ 72]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_U51TSCharacterAnimBlueprint_C_3
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:03CF
+[2020.04.08-17.21.42:867][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
+[2020.04.08-17.21.43:139][ 74]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_3
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:030D
+[2020.04.08-17.21.43:139][ 74]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_3
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:039D
+[2020.04.08-17.21.43:139][ 74]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_3
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:03CF
+[2020.04.08-17.21.43:178][ 75]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_3
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:030D
+[2020.04.08-17.21.43:178][ 75]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_3
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:039D
+[2020.04.08-17.21.43:178][ 75]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_3
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:03CF
+[2020.04.08-17.21.43:202][ 76]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_3
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:030D
+[2020.04.08-17.21.43:202][ 76]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_3
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:039D
+[2020.04.08-17.21.43:202][ 76]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_3
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:03CF
+[2020.04.08-17.21.43:224][ 77]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_3
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:030D
+[2020.04.08-17.21.43:224][ 77]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_3
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:039D
+[2020.04.08-17.21.44:115][109]LogSavePackage: Moving '../../../../../Project/U51TS 4.24/Saved/BP_U51TSCharacterAnimBlueprint21964F37411C03F14103EFB44E002979.tmp' to '../../../../../Project/U51TS 4.24/Content/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.uasset'
+[2020.04.08-17.21.44:134][109]AssetCheck: New page: Asset Save: BP_U51TSCharacterAnimBlueprint
+[2020.04.08-17.21.44:134][109]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint
+[2020.04.08-17.23.08:423][923]BlueprintLog: New page: Compile BP_U51TSCharacterAnimBlueprint
+[2020.04.08-17.23.08:791][923]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_U51TSCharacterAnimBlueprint_C_4
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:030D
+[2020.04.08-17.23.08:791][923]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_U51TSCharacterAnimBlueprint_C_4
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:039D
+[2020.04.08-17.23.08:791][923]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_U51TSCharacterAnimBlueprint_C_4
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:03CF
+[2020.04.08-17.23.08:792][923]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_4
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:030D
+[2020.04.08-17.23.08:792][923]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_4
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:039D
+[2020.04.08-17.23.08:792][923]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_4
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:03CF
+[2020.04.08-17.23.08:845][923]LogUObjectHash: Compacting FUObjectHashTables data took   6.96ms
+[2020.04.08-17.23.09:130][925]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_4
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:030D
+[2020.04.08-17.23.09:130][925]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_4
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:039D
+[2020.04.08-17.23.09:130][925]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_4
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:03CF
+[2020.04.08-17.23.09:171][926]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_4
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:030D
+[2020.04.08-17.23.09:171][926]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_4
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:039D
+[2020.04.08-17.23.09:171][926]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_4
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:03CF
+[2020.04.08-17.23.09:192][927]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_4
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:030D
+[2020.04.08-17.23.09:192][927]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_4
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:039D
+[2020.04.08-17.23.09:192][927]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_4
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:03CF
+[2020.04.08-17.23.09:219][928]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_4
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:030D
+[2020.04.08-17.23.09:219][928]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_4
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:039D
+[2020.04.08-17.23.09:796][950]LogSavePackage: Moving '../../../../../Project/U51TS 4.24/Saved/BP_U51TSCharacterAnimBlueprint819C5EC44453407EEB6CC4A47831B0E3.tmp' to '../../../../../Project/U51TS 4.24/Content/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.uasset'
+[2020.04.08-17.23.09:813][950]AssetCheck: New page: Asset Save: BP_U51TSCharacterAnimBlueprint
+[2020.04.08-17.23.09:814][950]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint
+[2020.04.08-17.24.14:687][934]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ThirdPerson/Animations/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2020.04.08-17.24.14:827][934]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.08-17.24.14:864][934]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.08-17.24.15:919][934]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.04.08-17.24.22:194][205]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2020.04.08-17.24.22:194][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.08-17.24.22:270][205]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2020.04.08-17.24.22:270][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.08-17.24.22:407][205]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2020.04.08-17.24.22:407][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.08-17.25.06:936][252]LogSlate: Window 'BP_U51TSCharacterAnimBlueprint' being destroyed
+[2020.04.08-17.25.06:940][252]LogSlate: Window 'BP_U51TSCharacterAnimBlueprint' being destroyed
+[2020.04.08-17.25.07:008][252]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.04.08-17.25.07:008][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.08-17.25.07:025][252]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.04.08-17.25.07:025][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.08-17.25.07:220][252]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.04.08-17.25.07:221][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.08-17.25.36:035][233]LogUObjectHash: Compacting FUObjectHashTables data took   7.87ms
+[2020.04.08-17.25.36:040][233]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Game/U51TS_StationMap' took 0.160
+[2020.04.08-17.25.36:040][233]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint] ([1] browsable assets)...
+[2020.04.08-17.25.36:040][233]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint]
+[2020.04.08-17.25.36:126][233]LogSavePackage: Moving '../../../../../Project/U51TS 4.24/Saved/BP_U51TSCharacterAnimBlueprint_A6E09B546482001A56FCD6093C67C7C34.tmp' to '../../../../../Project/U51TS 4.24/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint_Auto2.uasset'
+[2020.04.08-17.25.36:127][233]LogFileHelpers: Auto-saving content packages took 0.087
+[2020.04.08-17.29.51:758][665]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/ThirdPerson/Blueprints/BS_CrouchWalk.BS_CrouchWalk
+[2020.04.08-17.29.51:773][665]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.08-17.29.51:900][665]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.08-17.29.52:603][665]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.04.08-17.30.08:907][429]LogSlate: Window 'BS_CrouchWalk' being destroyed
+[2020.04.08-17.30.08:910][429]LogSlate: Window 'BS_CrouchWalk' being destroyed
+[2020.04.08-17.30.08:910][429]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2020.04.08-17.30.08:910][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.08-17.30.09:090][429]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2020.04.08-17.30.09:090][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.08-17.30.12:269][562]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_U51TSCharacter.BP_U51TSCharacter
+[2020.04.08-17.30.52:155][488]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'ACharacter::Jump' [Element not found.]
+[2020.04.08-17.39.05:991][847]BlueprintLog: New page: Compile BP_U51TSCharacter
+[2020.04.08-17.39.06:751][847]LogUObjectHash: Compacting FUObjectHashTables data took   9.95ms
+[2020.04.08-17.39.31:335][990]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.08-17.39.31:349][990]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.08-17.39.35:155][117]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint
+[2020.04.08-17.39.35:168][117]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.08-17.39.35:168][117]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:030D
+[2020.04.08-17.39.35:168][117]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:039D
+[2020.04.08-17.39.35:168][117]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:03CF
+[2020.04.08-17.39.35:578][117]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.08-17.39.35:835][117]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:030D
+[2020.04.08-17.39.35:835][117]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:039D
+[2020.04.08-17.39.35:836][117]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:03CF
+[2020.04.08-17.39.36:278][120]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:030D
+[2020.04.08-17.39.36:278][120]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:039D
+[2020.04.08-17.39.36:278][120]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:03CF
+[2020.04.08-17.39.36:305][121]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:030D
+[2020.04.08-17.39.36:305][121]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:039D
+[2020.04.08-17.39.36:305][121]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:03CF
+[2020.04.08-17.39.36:396][122]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:030D
+[2020.04.08-17.39.36:396][122]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:039D
+[2020.04.08-17.39.36:396][122]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:03CF
+[2020.04.08-17.39.36:411][123]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:030D
+[2020.04.08-17.39.36:411][123]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_U51TSCharacterAnimBlueprint_C /Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_U51TSCharacterAnimBlueprint_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_U51TSCharacterAnimBlueprint.BP_U51TSCharacterAnimBlueprint_C:ExecuteUbergraph_BP_U51TSCharacterAnimBlueprint:039D
+[2020.04.08-17.39.38:743][236]LogUObjectArray: Warning: Other object in slot
+[2020.04.08-17.39.38:746][236]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.08-17.39.38:947][236]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.200 s
+[2020.04.08-17.39.38:947][236]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.08-17.39.38:947][236]LogOutputDevice: Error: 
+[2020.04.08-17.39.38:947][236]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1165]
+[2020.04.08-17.39.38:947][236]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.04.08-17.39.38:947][236]LogOutputDevice: Error: Stack: 
+[2020.04.08-17.39.38:948][236]LogOutputDevice: Error: [Callstack] 0x00007fff2af57b69 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.08-17.39.38:948][236]LogOutputDevice: Error: [Callstack] 0x00007fff2a76678a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.08-17.39.38:948][236]LogOutputDevice: Error: [Callstack] 0x00007fff2a77409f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.08-17.39.38:948][236]LogOutputDevice: Error: [Callstack] 0x00007fff26cac5b1 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.04.08-17.39.38:948][236]LogOutputDevice: Error: [Callstack] 0x00007fff261c977a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.04.08-17.39.38:948][236]LogOutputDevice: Error: [Callstack] 0x00007fff26181647 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.04.08-17.39.38:948][236]LogOutputDevice: Error: [Callstack] 0x00007fff2b77b144 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.08-17.39.38:948][236]LogOutputDevice: Error: [Callstack] 0x00007fff2b96dc63 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.08-17.39.38:948][236]LogOutputDevice: Error: [Callstack] 0x00007fff2b7c60b3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.08-17.39.38:948][236]LogOutputDevice: Error: [Callstack] 0x00007fff2b7a46f9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.08-17.39.38:948][236]LogOutputDevice: Error: [Callstack] 0x00007fff2b798ce2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.08-17.39.38:948][236]LogOutputDevice: Error: [Callstack] 0x00007fff3cfd4ae7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.08-17.39.38:948][236]LogOutputDevice: Error: [Callstack] 0x00007fff3cfc242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.08-17.39.38:948][236]LogOutputDevice: Error: [Callstack] 0x00007fff3cfd7195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.08-17.39.38:948][236]LogOutputDevice: Error: [Callstack] 0x00007fff3cfbec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.08-17.39.38:948][236]LogOutputDevice: Error: [Callstack] 0x00007fff7a301c24 USER32.dll!UnknownFunction []
+[2020.04.08-17.39.38:948][236]LogOutputDevice: Error: [Callstack] 0x00007fff7a30156c USER32.dll!UnknownFunction []
+[2020.04.08-17.39.38:948][236]LogOutputDevice: Error: [Callstack] 0x00007fff3cfd8699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.08-17.39.38:948][236]LogOutputDevice: Error: [Callstack] 0x00007ff771d06db0 UE4Editor.exe!UnknownFunction []
+[2020.04.08-17.39.38:948][236]LogOutputDevice: Error: [Callstack] 0x00007ff771d1c3ec UE4Editor.exe!UnknownFunction []
+[2020.04.08-17.39.38:948][236]LogOutputDevice: Error: [Callstack] 0x00007ff771d1c4ca UE4Editor.exe!UnknownFunction []
+[2020.04.08-17.39.38:948][236]LogOutputDevice: Error: [Callstack] 0x00007ff771d2ceae UE4Editor.exe!UnknownFunction []
+[2020.04.08-17.39.38:948][236]LogOutputDevice: Error: [Callstack] 0x00007ff771d2fcbe UE4Editor.exe!UnknownFunction []
+[2020.04.08-17.39.38:948][236]LogOutputDevice: Error: [Callstack] 0x00007fff7c2b8364 KERNEL32.DLL!UnknownFunction []
+[2020.04.08-17.39.38:948][236]LogOutputDevice: Error: [Callstack] 0x00007fff7c3c7091 ntdll.dll!UnknownFunction []
+[2020.04.08-17.39.38:948][236]LogOutputDevice: Error: 
+[2020.04.08-17.39.38:956][236]LogStats:                SubmitErrorReport -  0.000 s
