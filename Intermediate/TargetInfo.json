@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "U51TW",
+			"Path": "C:\\project_u\\U51-TW_New\\Source\\U51TW.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "U51TWEditor",
+			"Path": "C:\\project_u\\U51-TW_New\\Source\\U51TWEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
