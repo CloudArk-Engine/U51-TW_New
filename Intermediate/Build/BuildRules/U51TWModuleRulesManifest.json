@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\U51-TW_New\\Source\\U51TW\\U51TW.Build.cs",
-		"C:\\U51-TW_New\\Source\\U51TW.Target.cs",
-		"C:\\U51-TW_New\\Source\\U51TWEditor.Target.cs"
+		"D:\\GitHub\\U51-TW_New\\Source\\U51TW\\U51TW.Build.cs",
+		"D:\\GitHub\\U51-TW_New\\Source\\U51TW.Target.cs",
+		"D:\\GitHub\\U51-TW_New\\Source\\U51TWEditor.Target.cs"
 	],
 	"EngineVersion": "4.24.3"
 }
