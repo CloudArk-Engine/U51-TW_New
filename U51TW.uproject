@@ -21,15 +21,6 @@
 		{
 			"Name": "OnlineSubsystemSteam",
 			"Enabled": true
-		},
-		{
-			"Name": "MSSQL",
-			"Enabled": true,
-			"MarketplaceURL": "https://www.unrealengine.com/marketplace/ms-sql-integration"
-		},
-		{
-			"Name": "AdvancedSessions",
-			"Enabled": true
 		}
 	]
 }
