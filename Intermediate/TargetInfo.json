@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "U51TW",
-			"Path": "D:\\GitHub\\U51-TW_New\\Source\\U51TW.Target.cs",
+			"Path": "C:\\project_u\\U51TW\\Source\\U51TW.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "U51TWEditor",
-			"Path": "D:\\GitHub\\U51-TW_New\\Source\\U51TWEditor.Target.cs",
+			"Path": "C:\\project_u\\U51TW\\Source\\U51TWEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

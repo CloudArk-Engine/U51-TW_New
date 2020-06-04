@@ -40,12 +40,6 @@
 /DELAYLOAD:"openvr_api.dll"
 /DELAYLOAD:"mfuuid.dll"
 /DELAYLOAD:"Mfreadwrite.dll"
-/DELAYLOAD:"chrome_elf.dll"
-/DELAYLOAD:"d3dcompiler_43.dll"
-/DELAYLOAD:"d3dcompiler_47.dll"
-/DELAYLOAD:"libcef.dll"
-/DELAYLOAD:"libEGL.dll"
-/DELAYLOAD:"libGLESv2.dll"
 /LIBPATH:"C:\Program Files\Epic Games\UE_4.24\Engine\Source\ThirdParty\IntelTBB\IntelTBB-2019u8\lib\Win64\vc14"
 /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\lib\x64"
 /LIBPATH:"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x64"
@@ -80,14 +74,6 @@
 "C:\Program Files\Epic Games\UE_4.24\Engine\Plugins\Online\OnlineSubsystemUtils\Intermediate\Build\Win64\UE4\Shipping\OnlineSubsystemUtils\Module.OnlineSubsystemUtils.gen.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Shipping\Core\SharedPCH.Core.ShadowErrors.h.obj"
 "C:\Program Files\Epic Games\UE_4.24\Engine\Plugins\Runtime\Steam\SteamShared\Intermediate\Build\Win64\UE4\Shipping\SteamShared\SteamSharedModule.cpp.obj"
-"C:\Program Files\Epic Games\UE_4.24\Engine\Plugins\Marketplace\XsollaLogin\Intermediate\Build\Win64\UE4\Shipping\XsollaWebBrowser\Module.XsollaWebBrowser.cpp.obj"
-"C:\Program Files\Epic Games\UE_4.24\Engine\Plugins\Marketplace\XsollaLogin\Intermediate\Build\Win64\UE4\Shipping\XsollaWebBrowser\Module.XsollaWebBrowser.gen.cpp.obj"
-"C:\Program Files\Epic Games\UE_4.24\Engine\Plugins\Marketplace\XsollaLogin\Intermediate\Build\Win64\UE4\Shipping\XsollaLogin\Module.XsollaLogin.cpp.obj"
-"C:\Program Files\Epic Games\UE_4.24\Engine\Plugins\Marketplace\XsollaLogin\Intermediate\Build\Win64\UE4\Shipping\XsollaLogin\Module.XsollaLogin.gen.cpp.obj"
-"C:\Program Files\Epic Games\UE_4.24\Engine\Plugins\Marketplace\XsollaLogin\Intermediate\Build\Win64\UE4\Shipping\XsollaStore\Module.XsollaStore.cpp.obj"
-"C:\Program Files\Epic Games\UE_4.24\Engine\Plugins\Marketplace\XsollaLogin\Intermediate\Build\Win64\UE4\Shipping\XsollaStore\Module.XsollaStore.gen.cpp.obj"
-"C:\Program Files\Epic Games\UE_4.24\Engine\Plugins\Marketplace\XsollaLogin\Intermediate\Build\Win64\UE4\Shipping\XsollaPayStation\Module.XsollaPayStation.cpp.obj"
-"C:\Program Files\Epic Games\UE_4.24\Engine\Plugins\Marketplace\XsollaLogin\Intermediate\Build\Win64\UE4\Shipping\XsollaPayStation\Module.XsollaPayStation.gen.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.24\Engine\Plugins\2D\Paper2D\Intermediate\Build\Win64\UE4\Shipping\Paper2D\Module.Paper2D.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.24\Engine\Plugins\2D\Paper2D\Intermediate\Build\Win64\UE4\Shipping\Paper2D\Module.Paper2D.gen.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.24\Engine\Plugins\AI\AISupport\Intermediate\Build\Win64\UE4\Shipping\AISupportModule\AISupportModule.cpp.obj"
@@ -585,9 +571,6 @@
 "C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Shipping\NavigationSystem\Module.NavigationSystem.gen.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Shipping\Voice\Module.Voice.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Shipping\ImageCore\ImageCore.cpp.obj"
-"C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Shipping\CEF3Utils\CEF3Utils.cpp.obj"
-"C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Shipping\WebBrowser\Module.WebBrowser.cpp.obj"
-"C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Shipping\WebBrowser\Module.WebBrowser.gen.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Shipping\GameplayTasks\Module.GameplayTasks.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Shipping\GameplayTasks\Module.GameplayTasks.gen.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Shipping\AIModule\Module.AIModule.1_of_4.cpp.obj"
@@ -731,8 +714,6 @@
 "ThirdParty/PhysX3\Lib/Win64/VS2015/PhysX3Cooking_x64.lib"
 "legacy_stdio_definitions.lib"
 "d3d11.lib"
-"ThirdParty/CEF3\cef_binary_3.3071.1611.g4a19305_windows64\Release\libcef.lib"
-"ThirdParty/CEF3\cef_binary_3.3071.1611.g4a19305_windows64\VS2015\libcef_dll/Release\libcef_dll_wrapper.lib"
 /OUT:"C:\project_u\U51-TW_New\Binaries\Win64\U51TW-Win64-Shipping.exe"
 /PDB:"C:\project_u\U51-TW_New\Binaries\Win64\U51TW-Win64-Shipping.pdb"
 /ignore:4078
@@ -741,10 +722,6 @@
 /INCLUDE:IMPLEMENT_MODULE_OnlineSubsystem
 /INCLUDE:IMPLEMENT_MODULE_OnlineSubsystemUtils
 /INCLUDE:IMPLEMENT_MODULE_SteamShared
-/INCLUDE:IMPLEMENT_MODULE_XsollaWebBrowser
-/INCLUDE:IMPLEMENT_MODULE_XsollaLogin
-/INCLUDE:IMPLEMENT_MODULE_XsollaStore
-/INCLUDE:IMPLEMENT_MODULE_XsollaPayStation
 /INCLUDE:IMPLEMENT_MODULE_Paper2D
 /INCLUDE:IMPLEMENT_MODULE_AISupportModule
 /INCLUDE:IMPLEMENT_MODULE_LightPropagationVolumeRuntime
@@ -922,8 +899,6 @@
 /INCLUDE:IMPLEMENT_MODULE_NavigationSystem
 /INCLUDE:IMPLEMENT_MODULE_Voice
 /INCLUDE:IMPLEMENT_MODULE_ImageCore
-/INCLUDE:IMPLEMENT_MODULE_CEF3Utils
-/INCLUDE:IMPLEMENT_MODULE_WebBrowser
 /INCLUDE:IMPLEMENT_MODULE_GameplayTasks
 /INCLUDE:IMPLEMENT_MODULE_AIModule
 /INCLUDE:IMPLEMENT_MODULE_InputDevice

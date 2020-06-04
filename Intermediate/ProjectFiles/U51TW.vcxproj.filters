@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\U51TW.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{9865B513-525A-4503-8B10-B307D453B515}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\U51TW.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\U51TWEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitignore" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{AC0C9CC4-39BA-4B24-845A-2DEEBC09B3DE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\U51TW">
+      <UniqueIdentifier>{1DB832AE-DC90-45DB-A564-48F80381AC7B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\U51TW\FileManage.cpp">
+      <Filter>Source\U51TW</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\U51TW\FileManage.h">
+      <Filter>Source\U51TW</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\U51TW\U51TW.Build.cs">
+      <Filter>Source\U51TW</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\U51TW\U51TW.cpp">
+      <Filter>Source\U51TW</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\U51TW\U51TW.h">
+      <Filter>Source\U51TW</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
